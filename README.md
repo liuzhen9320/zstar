@@ -2,7 +2,7 @@
 
 > They said organizing stars was extremely troublesome, so I lent a hand.
 
-## Contents
+## Table of Contents
 - [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
