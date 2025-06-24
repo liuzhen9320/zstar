@@ -1,4 +1,4 @@
-# @liuzhen9320 's Stars
+# @liuzhen9320's Stars
 
 > They said organizing stars was extremely troublesome, so I lent a hand.
 
