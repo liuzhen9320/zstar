@@ -2,7 +2,7 @@
 
 > They said organizing stars was extremely troublesome, so I lent a hand.
 
-## Contents
+## Table of Contents
 - [ai](#ai)
 - [analytics](#analytics)
 - [api](#api)
