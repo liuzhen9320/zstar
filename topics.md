@@ -3,6 +3,7 @@
 > They said organizing stars was extremely troublesome, so I lent a hand.
 
 ## Table of Contents
+- [3d](#3d)
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
@@ -27,8 +28,11 @@
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
 - [cli](#cli)
+- [code](#code)
+- [coding](#coding)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
+- [computer-vision](#computer-vision)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -68,6 +72,7 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [games](#games)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -85,6 +90,7 @@
 - [http](#http)
 - [https](#https)
 - [icon-font](#icon-font)
+- [image-processing](#image-processing)
 - [information-gathering](#information-gathering)
 - [ios](#ios)
 - [iot](#iot)
@@ -93,6 +99,7 @@
 - [javafx](#javafx)
 - [javascript](#javascript)
 - [jenkins](#jenkins)
+- [jquery](#jquery)
 - [json](#json)
 - [koa](#koa)
 - [kotlin](#kotlin)
@@ -103,6 +110,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [localization](#localization)
+- [login](#login)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -110,6 +118,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
+- [material-design](#material-design)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -148,6 +157,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
+- [qt](#qt)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -197,157 +207,178 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 
+## 3d 
+
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing (⭐️ 3390)
+
+**[⬆️ Go back to top](#contents)**
+
 ## ai 
 
-- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. (⭐️ 5212)
-- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨ (⭐️ 1330)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (⭐️ 40637)
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8064)
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase (⭐️ 10331)
+- [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy (⭐️ 1702)
+- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. (⭐️ 5213)
+- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨ (⭐️ 1331)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (⭐️ 40686)
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8108)
 
 **[⬆️ Go back to top](#contents)**
 
 ## analytics 
 
-- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring (⭐️ 1788)
-- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27467)
-- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1379)
+- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring (⭐️ 1789)
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27473)
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1380)
 - [prismelabs/analytics](https://github.com/prismelabs/analytics) - 💎 An Open Source, privacy-focused and progressive analytics service. (⭐️ 101)
-- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3046)
+- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3047)
 - [explodingcamera/liwan](https://github.com/explodingcamera/liwan) - liwan - Lightweight Analytics (⭐️ 60)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod (⭐️ 730)
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights (⭐️ 764)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (⭐️ 15645)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22743)
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics. (⭐️ 26969)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (⭐️ 15655)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22750)
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics. (⭐️ 26983)
 
 **[⬆️ Go back to top](#contents)**
 
 ## android 
 
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (⭐️ 14421)
-- [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. (⭐️ 1597)
-- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1379)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (⭐️ 29061)
+- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是 (⭐️ 21646)
+- [cyb3rko/flashdim](https://github.com/cyb3rko/flashdim) - Modern flashlight app with dim functionality on Android 13+ (⭐️ 995)
+- [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting (⭐️ 3368)
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (⭐️ 14427)
+- [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. (⭐️ 1598)
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1380)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
 
 **[⬆️ Go back to top](#contents)**
 
 ## angular 
 
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1351)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1352)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
 
 **[⬆️ Go back to top](#contents)**
 
 ## api 
 
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67144)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
+- [scrayosnet/xenos](https://github.com/scrayosnet/xenos) - Minecraft Profile Information Proxy (⭐️ 25)
+- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是 (⭐️ 21646)
+- [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript. (⭐️ 16857)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67154)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (⭐️ 1190)
-- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. (⭐️ 5212)
+- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. (⭐️ 5213)
 - [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies. (⭐️ 301)
-- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12895)
-- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment. (⭐️ 1753)
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12899)
+- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment. (⭐️ 1754)
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights (⭐️ 764)
-- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀 (⭐️ 2762)
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4183)
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2722)
-- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 76)
+- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀 (⭐️ 2764)
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4185)
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2726)
+- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 77)
 
 **[⬆️ Go back to top](#contents)**
 
 ## artificial-intelligence 
 
-- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨ (⭐️ 1330)
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8064)
+- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨ (⭐️ 1331)
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8108)
 
 **[⬆️ Go back to top](#contents)**
 
 ## automation 
 
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4283)
-- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter (⭐️ 3148)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37320)
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9326)
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager (⭐️ 1209)
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4289)
+- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter (⭐️ 3147)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37337)
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9350)
 
 **[⬆️ Go back to top](#contents)**
 
 ## awesome 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15050)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21208)
-- [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘 (⭐️ 3053)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️ 233913)
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (⭐️ 374421)
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (⭐️ 51140)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15256)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21219)
+- [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘 (⭐️ 3056)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️ 234051)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (⭐️ 375035)
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (⭐️ 51155)
 
 **[⬆️ Go back to top](#contents)**
 
 ## awesome-list 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15050)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️ 233913)
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (⭐️ 374421)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15256)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️ 234051)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (⭐️ 375035)
 
 **[⬆️ Go back to top](#contents)**
 
 ## aws 
 
 - [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS (⭐️ 1576)
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (⭐️ 731)
-- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4258)
-- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. (⭐️ 5257)
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (⭐️ 735)
+- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4259)
+- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. (⭐️ 5260)
 
 **[⬆️ Go back to top](#contents)**
 
 ## backend 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (⭐️ 5327)
+- [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura. (⭐️ 402)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (⭐️ 8619)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer (⭐️ 1088)
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4183)
-- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (⭐️ 20822)
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2722)
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4185)
+- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (⭐️ 20834)
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2726)
 
 **[⬆️ Go back to top](#contents)**
 
 ## bash 
 
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27407)
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim (⭐️ 8253)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (⭐️ 49644)
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (⭐️ 19792)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (⭐️ 20142)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27429)
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim (⭐️ 8252)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (⭐️ 49671)
 - [dimo414/bkt](https://github.com/dimo414/bkt) - a subprocess caching utility, available as a command line binary and a Rust library. (⭐️ 289)
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash (⭐️ 4211)
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3369)
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (⭐️ 24760)
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (⭐️ 15899)
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (⭐️ 11213)
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3370)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (⭐️ 24771)
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (⭐️ 15901)
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (⭐️ 11218)
 
 **[⬆️ Go back to top](#contents)**
 
 ## blockchain 
 
-- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 803)
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 809)
 - [MystenLabs/fastcrypto](https://github.com/MystenLabs/fastcrypto) - Common cryptographic library used in software at Mysten Labs. (⭐️ 276)
 
 **[⬆️ Go back to top](#contents)**
 
 ## bootstrap 
 
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1351)
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1352)
 - [johnfercher/maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. (⭐️ 2467)
 
 **[⬆️ Go back to top](#contents)**
 
 ## bot 
 
-- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (⭐️ 4978)
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (⭐️ 4982)
 - [spellshift/realm](https://github.com/spellshift/realm) - Realm is a cross platform Red Team engagement platform with a focus on automation and reliability. (⭐️ 499)
-- [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人 (⭐️ 1645)
+- [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人 (⭐️ 1646)
 - [azalea-rs/azalea](https://github.com/azalea-rs/azalea) - A collection of Rust crates for making Minecraft bots, clients, and tools. (⭐️ 506)
-- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat (⭐️ 3322)
-- [discord-tickets/bot](https://github.com/discord-tickets/bot) - The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots. (⭐️ 1173)
-- [bostrot/telegram-support-bot](https://github.com/bostrot/telegram-support-bot) - A Telegram ticketing/supporting system. (⭐️ 525)
+- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat (⭐️ 3323)
+- [discord-tickets/bot](https://github.com/discord-tickets/bot) - The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots. (⭐️ 1174)
+- [bostrot/telegram-support-bot](https://github.com/bostrot/telegram-support-bot) - A Telegram ticketing/supporting system. (⭐️ 526)
 - [SleeplessOne1917/lemmy-bot](https://github.com/SleeplessOne1917/lemmy-bot) - A bot library for Lemmy, the fediverse link aggregator. (⭐️ 100)
 - [eggheads/eggdrop](https://github.com/eggheads/eggdrop) - The Eggdrop IRC Bot (⭐️ 536)
 
@@ -355,18 +386,19 @@
 
 ## bugbounty 
 
-- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13041)
-- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. (⭐️ 4355)
-- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (⭐️ 11865)
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8637)
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13047)
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. (⭐️ 4356)
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (⭐️ 11874)
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8642)
 
 **[⬆️ Go back to top](#contents)**
 
 ## c 
 
-- [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server (⭐️ 4403)
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S (⭐️ 38186)
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27868)
+- [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat (⭐️ 3449)
+- [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server (⭐️ 4405)
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S (⭐️ 38193)
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27881)
 - [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) - Official UnrealIRCd repository. Downloads are available from our site (⭐️ 455)
 - [eggheads/eggdrop](https://github.com/eggheads/eggdrop) - The Eggdrop IRC Bot (⭐️ 536)
 
@@ -374,128 +406,159 @@
 
 ## c-plus-plus 
 
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49587)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117261)
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49601)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117270)
 
 **[⬆️ Go back to top](#contents)**
 
 ## chatbot 
 
-- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (⭐️ 4978)
-- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (⭐️ 8893)
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (⭐️ 4982)
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (⭐️ 8895)
 - [Tiledesk/tiledesk](https://github.com/Tiledesk/tiledesk) - Install Tiledesk on your server using Helm for Kubernetes orchestration and Docker Compose for running multi-container Docker applications. Tiledesk provides an open-source solution comparable to Voic (⭐️ 225)
 
 **[⬆️ Go back to top](#contents)**
 
 ## chatgpt 
 
-- [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘 (⭐️ 3053)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39887)
+- [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy (⭐️ 1702)
+- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是 (⭐️ 21646)
+- [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘 (⭐️ 3056)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39902)
 
 **[⬆️ Go back to top](#contents)**
 
 ## chrome 
 
-- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses. (⭐️ 10333)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117261)
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses. (⭐️ 10337)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117270)
 
 **[⬆️ Go back to top](#contents)**
 
 ## chrome-extension 
 
-- [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds. (⭐️ 3877)
-- [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。 (⭐️ 7855)
+- [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds. (⭐️ 3878)
+- [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。 (⭐️ 7858)
 
 **[⬆️ Go back to top](#contents)**
 
 ## clash 
 
-- [zxh326/clash-exporter](https://github.com/zxh326/clash-exporter) - A prometheus exporter for clash (⭐️ 148)
-- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, (⭐️ 4738)
-- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. (⭐️ 18556)
+- [shengyanli1982/load-ants](https://github.com/shengyanli1982/load-ants) - 🐜🐜🐜 An lightweight DNS forwarder converting UDP/TCP queries to DoH and  DoH queries forwarding, written in Rust. (⭐️ 14)
+- [zxh326/clash-exporter](https://github.com/zxh326/clash-exporter) - A prometheus exporter for clash (⭐️ 149)
+- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, (⭐️ 4743)
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. (⭐️ 18573)
 
 **[⬆️ Go back to top](#contents)**
 
 ## cli 
 
-- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (⭐️ 8508)
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27407)
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (⭐️ 53331)
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (⭐️ 11021)
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (⭐️ 4484)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (⭐️ 21117)
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries (⭐️ 4280)
+- [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat (⭐️ 3449)
+- [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool (⭐️ 890)
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (⭐️ 8516)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27429)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (⭐️ 53354)
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything! (⭐️ 1013)
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (⭐️ 1190)
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8637)
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8642)
 - [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies. (⭐️ 301)
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool (⭐️ 4676)
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (⭐️ 11483)
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim (⭐️ 8253)
-- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal (⭐️ 2926)
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool (⭐️ 4679)
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (⭐️ 11494)
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim (⭐️ 8252)
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal (⭐️ 2925)
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (⭐️ 4789)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (⭐️ 5017)
-- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (⭐️ 6351)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (⭐️ 5018)
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (⭐️ 6350)
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client. (⭐️ 7155)
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (⭐️ 9962)
-- [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow (⭐️ 1393)
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4183)
-- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (⭐️ 10631)
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (⭐️ 9968)
+- [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow (⭐️ 1394)
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4185)
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (⭐️ 10633)
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager. (⭐️ 1636)
-- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git (⭐️ 3736)
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git (⭐️ 3737)
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (⭐️ 414)
 - [dimo414/bkt](https://github.com/dimo414/bkt) - a subprocess caching utility, available as a command line binary and a Rust library. (⭐️ 289)
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3369)
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (⭐️ 16500)
-- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 722)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (⭐️ 25452)
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (⭐️ 11699)
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (⭐️ 15899)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (⭐️ 16660)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (⭐️ 18226)
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (⭐️ 15255)
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3370)
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (⭐️ 16563)
+- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 724)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (⭐️ 25461)
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (⭐️ 11701)
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (⭐️ 15901)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (⭐️ 16670)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (⭐️ 18240)
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (⭐️ 15278)
 - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨ (⭐️ 300)
-- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY (⭐️ 477)
+- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY (⭐️ 478)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (⭐️ 3293)
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor (⭐️ 19620)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18142)
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (⭐️ 51208)
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9326)
-- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2679)
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor (⭐️ 19624)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18152)
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (⭐️ 51218)
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9350)
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2681)
+
+**[⬆️ Go back to top](#contents)**
+
+## code 
+
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase (⭐️ 10331)
+
+**[⬆️ Go back to top](#contents)**
+
+## coding 
+
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial (⭐️ 10421)
 
 **[⬆️ Go back to top](#contents)**
 
 ## compiler 
 
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (⭐️ 43280)
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (⭐️ 104630)
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (⭐️ 15387)
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books. (⭐️ 7848)
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (⭐️ 43332)
 
 **[⬆️ Go back to top](#contents)**
 
 ## computer-science 
 
-- [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs. (⭐️ 1611)
+- [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs. (⭐️ 1614)
+
+**[⬆️ Go back to top](#contents)**
+
+## computer-vision 
+
+- [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming. (⭐️ 3540)
 
 **[⬆️ Go back to top](#contents)**
 
 ## config 
 
-- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter (⭐️ 3148)
+- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter (⭐️ 3147)
 - [xgfone/snippet](https://github.com/xgfone/snippet) - The code snippets of all kinds of languages and some docs. (⭐️ 228)
 
 **[⬆️ Go back to top](#contents)**
 
 ## continuous-integration 
 
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (⭐️ 731)
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (⭐️ 735)
 
 **[⬆️ Go back to top](#contents)**
 
 ## cpp 
 
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49587)
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49601)
 
 **[⬆️ Go back to top](#contents)**
 
 ## cryptography 
 
+- [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed (⭐️ 900)
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything! (⭐️ 1013)
-- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1405)
+- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1406)
 - [TokTok/c-toxcore](https://github.com/TokTok/c-toxcore) - The future of online communications. (⭐️ 2436)
 - [MystenLabs/fastcrypto](https://github.com/MystenLabs/fastcrypto) - Common cryptographic library used in software at Mysten Labs. (⭐️ 276)
 - [NLnetLabs/routinator](https://github.com/NLnetLabs/routinator) - An RPKI Validator and RTR server written in Rust (⭐️ 512)
@@ -504,17 +567,18 @@
 
 ## csharp 
 
-- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1923)
-- [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK# Paint Program (⭐️ 2665)
-- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer (⭐️ 10591)
+- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1924)
+- [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK# Paint Program (⭐️ 2670)
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer (⭐️ 10599)
 
 **[⬆️ Go back to top](#contents)**
 
 ## css 
 
-- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13181)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117261)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (⭐️ 19717)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (⭐️ 29061)
+- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13183)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117270)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (⭐️ 19742)
 
 **[⬆️ Go back to top](#contents)**
 
@@ -526,103 +590,113 @@
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything! (⭐️ 1013)
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (⭐️ 1190)
 - [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS (⭐️ 1576)
-- [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. (⭐️ 2691)
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8637)
-- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11647)
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (⭐️ 16879)
+- [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. (⭐️ 2692)
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8642)
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11650)
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (⭐️ 16888)
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. (⭐️ 46342)
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49587)
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (⭐️ 12767)
-- [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) - JA4+ is a suite of network fingerprinting standards (⭐️ 1346)
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49601)
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (⭐️ 12774)
+- [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) - JA4+ is a suite of network fingerprinting standards (⭐️ 1351)
 
 **[⬆️ Go back to top](#contents)**
 
 ## dart 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91570)
+- [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting (⭐️ 3368)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91626)
 
 **[⬆️ Go back to top](#contents)**
 
 ## data 
 
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (⭐️ 40637)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (⭐️ 40686)
 
 **[⬆️ Go back to top](#contents)**
 
 ## data-analysis 
 
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
 
 **[⬆️ Go back to top](#contents)**
 
 ## data-structures 
 
-- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） (⭐️ 23447)
-- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust (⭐️ 24240)
+- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） (⭐️ 23449)
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust (⭐️ 24261)
 
 **[⬆️ Go back to top](#contents)**
 
 ## data-visualization 
 
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
+- [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database. (⭐️ 4108)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
 
 **[⬆️ Go back to top](#contents)**
 
 ## database 
 
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19565)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35486)
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (⭐️ 29530)
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (⭐️ 5327)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (⭐️ 8619)
+- [oblac/jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Zero dependencies. Use what you like. (⭐️ 4064)
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍 (⭐️ 2853)
+- [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database. (⭐️ 4108)
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19571)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35495)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (⭐️ 29538)
 - [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies. (⭐️ 301)
 - [SeaQL/starfish-ql](https://github.com/SeaQL/starfish-ql) - ✴️ An experimental graph database (⭐️ 113)
-- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1923)
-- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python (⭐️ 3739)
-- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file (⭐️ 6879)
-- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4258)
-- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (⭐️ 20822)
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2722)
+- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1924)
+- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python (⭐️ 3740)
+- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file (⭐️ 6887)
+- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4259)
+- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (⭐️ 20834)
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2726)
 
 **[⬆️ Go back to top](#contents)**
 
 ## deep-learning 
 
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8064)
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8108)
 
 **[⬆️ Go back to top](#contents)**
 
 ## design 
 
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24179)
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24196)
 
 **[⬆️ Go back to top](#contents)**
 
 ## development 
 
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4183)
-- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2679)
+- [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream. (⭐️ 6636)
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4185)
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2681)
 
 **[⬆️ Go back to top](#contents)**
 
 ## devops 
 
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime (⭐️ 7608)
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀 (⭐️ 6691)
 - [netaddr/netaddr](https://github.com/netaddr/netaddr) - A network address manipulation library for Python (⭐️ 810)
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and  (⭐️ 6593)
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ (⭐️ 16111)
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and  (⭐️ 6594)
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ (⭐️ 16114)
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (⭐️ 16144)
-- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter (⭐️ 3148)
-- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨ (⭐️ 1330)
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4183)
+- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter (⭐️ 3147)
+- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨ (⭐️ 1331)
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4185)
 
 **[⬆️ Go back to top](#contents)**
 
 ## discord 
 
-- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (⭐️ 4978)
-- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat (⭐️ 3322)
-- [discord-tickets/bot](https://github.com/discord-tickets/bot) - The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots. (⭐️ 1173)
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (⭐️ 4982)
+- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat (⭐️ 3323)
+- [discord-tickets/bot](https://github.com/discord-tickets/bot) - The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots. (⭐️ 1174)
 - [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use (⭐️ 1535)
 - [eggsy/website](https://github.com/eggsy/website) - 🧬 Source code of my personal website. Everything is included. Written in NuxtJS, TypeScript and Windi CSS! (⭐️ 327)
 
@@ -630,169 +704,198 @@
 
 ## django 
 
-- [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service (⭐️ 1089)
-- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1405)
-- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive. (⭐️ 2642)
-- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3046)
-- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (⭐️ 5178)
+- [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service (⭐️ 1091)
+- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1406)
+- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive. (⭐️ 2643)
+- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3047)
+- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (⭐️ 5182)
 
 **[⬆️ Go back to top](#contents)**
 
 ## docker 
 
-- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring (⭐️ 6790)
-- [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP (⭐️ 3335)
-- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses. (⭐️ 10333)
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (⭐️ 10161)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21208)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (⭐️ 25606)
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42096)
-- [chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools) - veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集 (⭐️ 1604)
-- [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier. (⭐️ 4252)
-- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive. (⭐️ 2642)
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (⭐️ 3400)
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager (⭐️ 1209)
+- [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go (⭐️ 640)
+- [harrisonwang/docxy](https://github.com/harrisonwang/docxy) - Docker Hub proxy service (⭐️ 303)
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy (⭐️ 1072)
+- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers (⭐️ 16641)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (⭐️ 9150)
+- [joesturge/lazymc-docker-proxy](https://github.com/joesturge/lazymc-docker-proxy) - Put your Minecraft containers to rest when idle. (⭐️ 50)
+- [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy (⭐️ 1702)
+- [scrayosnet/xenos](https://github.com/scrayosnet/xenos) - Minecraft Profile Information Proxy (⭐️ 25)
+- [scrayosnet/passage](https://github.com/scrayosnet/passage) - Minecraft Server Transfer Router to connect your Minecraft servers to the internet without any proxy or state. (⭐️ 4)
+- [shengyanli1982/load-ants](https://github.com/shengyanli1982/load-ants) - 🐜🐜🐜 An lightweight DNS forwarder converting UDP/TCP queries to DoH and  DoH queries forwarding, written in Rust. (⭐️ 14)
+- [luizfonseca/proksi](https://github.com/luizfonseca/proksi) - Batteries-included CDN, reverse proxy and Load Balancer with Docker support using Cloudflare Pingora. (⭐️ 160)
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ (⭐️ 24247)
+- [cesanta/docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2 (⭐️ 1327)
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 (⭐️ 10587)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (⭐️ 16630)
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless (⭐️ 16301)
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring (⭐️ 6793)
+- [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP (⭐️ 3338)
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses. (⭐️ 10337)
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (⭐️ 10166)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21219)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (⭐️ 25648)
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42125)
+- [chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools) - veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集 (⭐️ 1605)
+- [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier. (⭐️ 4253)
+- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive. (⭐️ 2643)
 - [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme (⭐️ 792)
-- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.6. (⭐️ 112)
+- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.6. (⭐️ 114)
 - [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers. (⭐️ 1534)
 - [Tiledesk/tiledesk](https://github.com/Tiledesk/tiledesk) - Install Tiledesk on your server using Helm for Kubernetes orchestration and Docker Compose for running multi-container Docker applications. Tiledesk provides an open-source solution comparable to Voic (⭐️ 225)
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free! (⭐️ 501)
-- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3046)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
-- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment. (⭐️ 1753)
+- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3047)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
+- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment. (⭐️ 1754)
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services. (⭐️ 97)
-- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates (⭐️ 2494)
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates (⭐️ 2497)
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds. (⭐️ 4168)
-- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites. (⭐️ 2986)
-- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments. (⭐️ 3260)
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (⭐️ 69977)
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. (⭐️ 33410)
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (⭐️ 45840)
-- [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching. (⭐️ 2148)
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry (⭐️ 16972)
-- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (⭐️ 2779)
-- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (⭐️ 1983)
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24179)
-- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️ 21856)
-- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 722)
-- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - A highly customizable web hosting control panel built around containers 📦 (⭐️ 373)
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites. (⭐️ 2988)
+- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments. (⭐️ 3262)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (⭐️ 69987)
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. (⭐️ 33419)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (⭐️ 46004)
+- [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching. (⭐️ 2156)
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry (⭐️ 16980)
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (⭐️ 2862)
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (⭐️ 1985)
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24196)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️ 21860)
+- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 724)
+- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) - A highly customizable web hosting control panel built around containers 📦 (⭐️ 374)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on) (⭐️ 1076)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (⭐️ 10173)
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (⭐️ 51208)
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (⭐️ 32629)
-- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 76)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (⭐️ 55291)
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (⭐️ 11213)
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (⭐️ 10606)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (⭐️ 10194)
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (⭐️ 51218)
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (⭐️ 32640)
+- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 77)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (⭐️ 55304)
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (⭐️ 11218)
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (⭐️ 10676)
 
 **[⬆️ Go back to top](#contents)**
 
 ## documentation 
 
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. (⭐️ 64075)
+- [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database. (⭐️ 4108)
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. (⭐️ 64100)
 
 **[⬆️ Go back to top](#contents)**
 
 ## dotfiles 
 
 - [xiaozhu2007/dotfiles](https://github.com/xiaozhu2007/dotfiles) - liuzhen932 & WolfYangFan's dotfiles (⭐️ 3)
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26594)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26599)
 
 **[⬆️ Go back to top](#contents)**
 
 ## dotnet 
 
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3452)
-- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1923)
-- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer (⭐️ 10591)
+- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3454)
+- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1924)
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer (⭐️ 10599)
 
 **[⬆️ Go back to top](#contents)**
 
 ## education 
 
-- [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs. (⭐️ 1611)
+- [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs. (⭐️ 1614)
 
 **[⬆️ Go back to top](#contents)**
 
 ## electron 
 
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19565)
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35486)
-- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1923)
-- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1379)
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6162)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117261)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r (⭐️ 52035)
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. (⭐️ 16403)
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19571)
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35495)
+- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1924)
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1380)
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6171)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117270)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r (⭐️ 52057)
 
 **[⬆️ Go back to top](#contents)**
 
 ## elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (⭐️ 7349)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22743)
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (⭐️ 7351)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22750)
 
 **[⬆️ Go back to top](#contents)**
 
 ## embedded 
 
-- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket (⭐️ 11824)
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime (⭐️ 7608)
+- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket (⭐️ 11827)
 - [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies. (⭐️ 301)
 - [knurling-rs/flip-link](https://github.com/knurling-rs/flip-link) - Adds zero-cost stack overflow protection to your embedded programs (⭐️ 350)
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2357)
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2356)
 
 **[⬆️ Go back to top](#contents)**
 
 ## express 
 
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35793)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (⭐️ 36980)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35826)
 
 **[⬆️ Go back to top](#contents)**
 
 ## firebase 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (⭐️ 8619)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
 - [eggsy/website](https://github.com/eggsy/website) - 🧬 Source code of my personal website. Everything is included. Written in NuxtJS, TypeScript and Windi CSS! (⭐️ 327)
 
 **[⬆️ Go back to top](#contents)**
 
 ## firefox 
 
-- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses. (⭐️ 10333)
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 (⭐️ 7376)
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses. (⭐️ 10337)
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 (⭐️ 7379)
 
 **[⬆️ Go back to top](#contents)**
 
 ## flask 
 
-- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python (⭐️ 3739)
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager (⭐️ 1209)
+- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python (⭐️ 3740)
 
 **[⬆️ Go back to top](#contents)**
 
 ## flutter 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91570)
-- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1379)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
-- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (⭐️ 4936)
-- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. (⭐️ 18556)
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. (⭐️ 64075)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (⭐️ 8619)
+- [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting (⭐️ 3368)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91626)
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1380)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
+- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (⭐️ 4942)
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. (⭐️ 18573)
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. (⭐️ 64100)
 
 **[⬆️ Go back to top](#contents)**
 
 ## flutter-apps 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91570)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91626)
 
 **[⬆️ Go back to top](#contents)**
 
 ## font 
 
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️ 58394)
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️ 58418)
 
 **[⬆️ Go back to top](#contents)**
 
 ## framework 
 
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (⭐️ 36980)
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (⭐️ 12761)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (⭐️ 82901)
 - [hyperf/hyperf](https://github.com/hyperf/hyperf) - 🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease. (⭐️ 6525)
-- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (⭐️ 4978)
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (⭐️ 4982)
 - [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies. (⭐️ 301)
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer (⭐️ 1088)
 
@@ -800,44 +903,59 @@
 
 ## game 
 
-- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ (⭐️ 16787)
-- [zachlatta/sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com (⭐️ 2343)
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ (⭐️ 16795)
+- [zachlatta/sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com (⭐️ 2345)
 
 **[⬆️ Go back to top](#contents)**
 
 ## game-development 
 
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (⭐️ 40270)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (⭐️ 40285)
 
 **[⬆️ Go back to top](#contents)**
 
 ## game-engine 
 
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (⭐️ 40270)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (⭐️ 40285)
 
 **[⬆️ Go back to top](#contents)**
 
 ## gamedev 
 
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (⭐️ 40270)
+- [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.[一款开源的游戏变速器] (⭐️ 2404)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (⭐️ 40285)
+
+**[⬆️ Go back to top](#contents)**
+
+## games 
+
+- [scrayosnet/xenos](https://github.com/scrayosnet/xenos) - Minecraft Profile Information Proxy (⭐️ 25)
 
 **[⬆️ Go back to top](#contents)**
 
 ## git 
 
-- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git (⭐️ 3736)
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (⭐️ 19792)
+- [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes! (⭐️ 1877)
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (⭐️ 5047)
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (⭐️ 11021)
+- [stacked-git/stgit](https://github.com/stacked-git/stgit) - Stacked Git (⭐️ 589)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (⭐️ 21117)
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services. (⭐️ 7770)
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git (⭐️ 3737)
 - [jdrouet/git-metrics](https://github.com/jdrouet/git-metrics) - A git extension to be able to track metrics about your project, within the git repository (⭐️ 99)
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (⭐️ 16500)
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... (⭐️ 11483)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output (⭐️ 26546)
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (⭐️ 16563)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... (⭐️ 11486)
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output (⭐️ 26555)
 
 **[⬆️ Go back to top](#contents)**
 
 ## github 
 
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services. (⭐️ 7770)
 - [emanuelef/daily-stars-explorer](https://github.com/emanuelef/daily-stars-explorer) - Gain deeper insights into your favourite open-source repositories. Explore star trends showing daily stars and go beyond the 40k-star limit. (⭐️ 221)
 - [debugger22/github-audio](https://github.com/debugger22/github-audio) - Listen to music generated by events happening across GitHub :octocat: 🎷 (⭐️ 1758)
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (⭐️ 25057)
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (⭐️ 25066)
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components. (⭐️ 612)
 
 **[⬆️ Go back to top](#contents)**
@@ -857,442 +975,513 @@
 
 ## go 
 
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3452)
-- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (⭐️ 6930)
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (⭐️ 31200)
+- [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go (⭐️ 640)
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy (⭐️ 1072)
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (⭐️ 32673)
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (⭐️ 4484)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (⭐️ 9150)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (⭐️ 21117)
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (⭐️ 73098)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (⭐️ 36980)
+- [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable (⭐️ 3798)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (⭐️ 6762)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (⭐️ 82901)
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀 (⭐️ 6691)
+- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3454)
+- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (⭐️ 6935)
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (⭐️ 31201)
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (⭐️ 5244)
-- [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang (⭐️ 16880)
+- [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang (⭐️ 16883)
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (⭐️ 6281)
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket: (⭐️ 25531)
-- [cunicu/cunicu](https://github.com/cunicu/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE) (⭐️ 215)
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket: (⭐️ 25533)
+- [cunicu/cunicu](https://github.com/cunicu/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE) (⭐️ 216)
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (⭐️ 16144)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (⭐️ 25606)
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42096)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (⭐️ 25648)
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42125)
 - [cristalhq/bencode](https://github.com/cristalhq/bencode) - Bencode encoding and decoding in Go. (⭐️ 11)
 - [pommee/goaway](https://github.com/pommee/goaway) - Lightweight DNS sinkhole written in Go with a modern dashboard client (⭐️ 205)
-- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11647)
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11650)
 - [cea-hpc/sshproxy](https://github.com/cea-hpc/sshproxy) - Proxy SSH connections on a gateway (⭐️ 107)
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing. (⭐️ 1153)
 - [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme (⭐️ 792)
-- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (⭐️ 12583)
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. (⭐️ 2814)
+- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (⭐️ 12586)
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. (⭐️ 2816)
 - [prismelabs/analytics](https://github.com/prismelabs/analytics) - 💎 An Open Source, privacy-focused and progressive analytics service. (⭐️ 101)
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services. (⭐️ 97)
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (⭐️ 69977)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (⭐️ 69987)
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager. (⭐️ 1636)
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (⭐️ 11772)
-- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️ 21856)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65149)
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community. (⭐️ 4784)
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (⭐️ 11786)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️ 21860)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65164)
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community. (⭐️ 4785)
 - [bgp/stayrtr](https://github.com/bgp/stayrtr) - RPKI-To-Router server implementation in Go (⭐️ 124)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (⭐️ 3293)
-- [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity (⭐️ 1651)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22521)
+- [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity (⭐️ 1652)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22531)
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go. (⭐️ 5470)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18142)
-- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH. (⭐️ 7383)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18152)
+- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH. (⭐️ 7387)
 - [ryboe/q](https://github.com/ryboe/q) - Quick and dirty debugging output for tired Go programmers (⭐️ 1537)
-- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy (⭐️ 4587)
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27868)
-- [zachlatta/sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com (⭐️ 2343)
-- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (⭐️ 14576)
-- [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker (⭐️ 1358)
-- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 76)
-- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy. (⭐️ 4317)
-- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (⭐️ 3350)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (⭐️ 55291)
+- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy (⭐️ 4590)
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27881)
+- [zachlatta/sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com (⭐️ 2345)
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (⭐️ 14579)
+- [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker (⭐️ 1359)
+- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 77)
+- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy. (⭐️ 4320)
+- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (⭐️ 3351)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (⭐️ 55304)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (⭐️ 1613)
 
 **[⬆️ Go back to top](#contents)**
 
 ## golang 
 
+- [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go (⭐️ 640)
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (⭐️ 4484)
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs. (⭐️ 13164)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (⭐️ 9150)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (⭐️ 21117)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (⭐️ 36980)
+- [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable (⭐️ 3798)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (⭐️ 6762)
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ (⭐️ 24247)
+- [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool (⭐️ 890)
 - [alpkeskin/rota](https://github.com/alpkeskin/rota) - A high-performance proxy rotation engine with automated IP management and real-time health monitoring (⭐️ 103)
-- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (⭐️ 6930)
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (⭐️ 14421)
-- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution. (⭐️ 4327)
+- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (⭐️ 6935)
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (⭐️ 14427)
+- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution. (⭐️ 4330)
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (⭐️ 5244)
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (⭐️ 16670)
-- [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang (⭐️ 16880)
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (⭐️ 16679)
+- [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang (⭐️ 16883)
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (⭐️ 6281)
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket: (⭐️ 25531)
-- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy (⭐️ 5015)
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (⭐️ 10161)
-- [cunicu/cunicu](https://github.com/cunicu/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE) (⭐️ 215)
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket: (⭐️ 25533)
+- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy (⭐️ 5017)
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (⭐️ 10166)
+- [cunicu/cunicu](https://github.com/cunicu/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE) (⭐️ 216)
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (⭐️ 16144)
 - [cristalhq/bencode](https://github.com/cristalhq/bencode) - Bencode encoding and decoding in Go. (⭐️ 11)
-- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. (⭐️ 4355)
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. (⭐️ 4356)
 - [spellshift/realm](https://github.com/spellshift/realm) - Realm is a cross platform Red Team engagement platform with a focus on automation and reliability. (⭐️ 499)
-- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11647)
-- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1405)
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11650)
+- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1406)
 - [KusakabeShi/EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) - Layer2 version of wireguard with Floyd Warshall implement in go. (⭐️ 166)
-- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (⭐️ 12583)
-- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12895)
+- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (⭐️ 12586)
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12899)
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services. (⭐️ 97)
 - [Edgio/vflow](https://github.com/Edgio/vflow) - Enterprise Network Flow Collector (IPFIX, sFlow, Netflow) (⭐️ 1130)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (⭐️ 5017)
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (⭐️ 69977)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (⭐️ 5018)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (⭐️ 69987)
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti (⭐️ 3400)
-- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 803)
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 809)
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager. (⭐️ 1636)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (⭐️ 5414)
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3369)
-- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (⭐️ 2779)
-- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (⭐️ 1983)
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (⭐️ 11772)
-- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️ 21856)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65149)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (⭐️ 5417)
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3370)
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (⭐️ 2862)
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (⭐️ 1985)
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (⭐️ 11786)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️ 21860)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65164)
 - [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use (⭐️ 1535)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (⭐️ 16477)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (⭐️ 16520)
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time. (⭐️ 1332)
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp (⭐️ 1084)
-- [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity (⭐️ 1651)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18142)
+- [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity (⭐️ 1652)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18152)
 - [ryboe/q](https://github.com/ryboe/q) - Quick and dirty debugging output for tired Go programmers (⭐️ 1537)
-- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy (⭐️ 4587)
+- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy (⭐️ 4590)
 - [johnfercher/maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. (⭐️ 2467)
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27868)
-- [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions (⭐️ 5511)
-- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (⭐️ 14576)
-- [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker (⭐️ 1358)
-- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2679)
-- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 76)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (⭐️ 55291)
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27881)
+- [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions (⭐️ 5514)
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (⭐️ 14579)
+- [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker (⭐️ 1359)
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2681)
+- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 77)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (⭐️ 55304)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (⭐️ 1613)
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (⭐️ 10606)
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (⭐️ 10676)
 
 **[⬆️ Go back to top](#contents)**
 
 ## good-first-issue 
 
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22521)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29130)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22531)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29652)
 
 **[⬆️ Go back to top](#contents)**
 
 ## graphql 
 
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67144)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
+- [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura. (⭐️ 402)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (⭐️ 8619)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67154)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
 - [spellshift/realm](https://github.com/spellshift/realm) - Realm is a cross platform Red Team engagement platform with a focus on automation and reliability. (⭐️ 499)
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀 (⭐️ 791)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29130)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35793)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29652)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35826)
 
 **[⬆️ Go back to top](#contents)**
 
 ## hacking 
 
-- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13041)
-- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (⭐️ 11865)
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13047)
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (⭐️ 11874)
 - [b1-team/superman](https://github.com/b1-team/superman) - 🤖 Kill The Protected Process 🤖 (⭐️ 439)
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. (⭐️ 46342)
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49587)
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49601)
 - [ohaswin/pyscan](https://github.com/ohaswin/pyscan) - python dependency vulnerability scanner, written in Rust. (⭐️ 196)
 
 **[⬆️ Go back to top](#contents)**
 
 ## hacking-tool 
 
-- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13041)
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13047)
 
 **[⬆️ Go back to top](#contents)**
 
 ## hacking-tools 
 
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4283)
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4289)
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner (⭐️ 908)
 
 **[⬆️ Go back to top](#contents)**
 
 ## hacktoberfest 
 
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ (⭐️ 16111)
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S (⭐️ 38186)
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (⭐️ 19792)
+- [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User (⭐️ 3081)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (⭐️ 25855)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (⭐️ 21117)
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (⭐️ 104630)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (⭐️ 36980)
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (⭐️ 4212)
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries (⭐️ 4280)
+- [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager (⭐️ 5093)
+- [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura. (⭐️ 402)
+- [cesanta/docker_auth](https://github.com/cesanta/docker_auth) - Authentication server for Docker Registry 2 (⭐️ 1327)
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 (⭐️ 10587)
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless (⭐️ 16301)
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ (⭐️ 16114)
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S (⭐️ 38193)
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (⭐️ 16144)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21208)
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67144)
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30753)
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35486)
-- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） (⭐️ 23447)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21219)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67154)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30761)
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35495)
+- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） (⭐️ 23449)
 - [catppuccin/fcitx5](https://github.com/catppuccin/fcitx5) - 🧃 Soothing pastel theme for Fcitx5 (⭐️ 150)
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int (⭐️ 23776)
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (⭐️ 19638)
-- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. (⭐️ 4355)
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27407)
-- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust (⭐️ 24240)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91570)
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8637)
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49587)
-- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system (⭐️ 4255)
-- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes. (⭐️ 9845)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (⭐️ 16004)
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int (⭐️ 23785)
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (⭐️ 19647)
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. (⭐️ 4356)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27429)
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust (⭐️ 24261)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91626)
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8642)
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49601)
+- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system (⭐️ 4257)
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes. (⭐️ 9844)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (⭐️ 16026)
 - [hockeypuck/hockeypuck](https://github.com/hockeypuck/hockeypuck) - OpenPGP Key Server (⭐️ 338)
 - [SeaQL/starfish-ql](https://github.com/SeaQL/starfish-ql) - ✴️ An experimental graph database (⭐️ 113)
 - [ivre/masscanned](https://github.com/ivre/masscanned) - Let's be scanned. A low-interaction honeypot focused on network scanners and bots. It integrates very well with IVRE to build a self-hosted alternative to GreyNoise. (⭐️ 125)
-- [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars. (⭐️ 6534)
-- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27467)
-- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨ (⭐️ 1330)
+- [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars. (⭐️ 6535)
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27473)
+- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨ (⭐️ 1331)
 - [docat-org/docat](https://github.com/docat-org/docat) - Host your docs. Simple. Versioned. Fancy. (⭐️ 851)
-- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server (⭐️ 13926)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37320)
+- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server (⭐️ 13928)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37337)
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds. (⭐️ 4168)
-- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments. (⭐️ 3260)
-- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal (⭐️ 2926)
+- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments. (⭐️ 3262)
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal (⭐️ 2925)
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client. (⭐️ 7155)
-- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀 (⭐️ 2762)
-- [Canop/bacon](https://github.com/Canop/bacon) - background code checker (⭐️ 2619)
+- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀 (⭐️ 2764)
+- [Canop/bacon](https://github.com/Canop/bacon) - background code checker (⭐️ 2620)
 - [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs community. (⭐️ 314)
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. (⭐️ 33410)
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (⭐️ 14847)
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. (⭐️ 33419)
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (⭐️ 14868)
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (⭐️ 414)
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (⭐️ 45840)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (⭐️ 46004)
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash (⭐️ 4211)
 - [Clivern/Walrus](https://github.com/Clivern/Walrus) - 🔥 Fast, Secure and Reliable System Backup, Set up in Minutes. (⭐️ 490)
 - [helpyio/helpy](https://github.com/helpyio/helpy) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. (⭐️ 2399)
-- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️ 21856)
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (⭐️ 25057)
-- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed (⭐️ 3138)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️ 21860)
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (⭐️ 25066)
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed (⭐️ 3139)
 - [MrWillCom/hexo-theme-cupertino](https://github.com/MrWillCom/hexo-theme-cupertino) - The Hexo Blog Theme Cupertino. (⭐️ 229)
-- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust. (⭐️ 5161)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (⭐️ 18226)
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️ 58394)
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26594)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29130)
-- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (⭐️ 14576)
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (⭐️ 32629)
-- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (⭐️ 5178)
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust. (⭐️ 5162)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (⭐️ 18240)
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️ 58418)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26599)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29652)
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (⭐️ 14579)
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (⭐️ 32640)
+- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (⭐️ 5182)
 - [eggheads/eggdrop](https://github.com/eggheads/eggdrop) - The Eggdrop IRC Bot (⭐️ 536)
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (⭐️ 2309)
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (⭐️ 31982)
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (⭐️ 74030)
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (⭐️ 2312)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (⭐️ 31990)
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (⭐️ 74053)
 
 **[⬆️ Go back to top](#contents)**
 
 ## home-assistant 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15050)
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (⭐️ 9199)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15256)
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (⭐️ 9206)
 
 **[⬆️ Go back to top](#contents)**
 
 ## html 
 
-- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13181)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (⭐️ 29061)
+- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13183)
 - [izyuumi/html2md-rs](https://github.com/izyuumi/html2md-rs) - HTML to Markdown converter written in Rust (⭐️ 21)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117261)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117270)
 - [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use (⭐️ 1535)
 
 **[⬆️ Go back to top](#contents)**
 
 ## http 
 
-- [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org) (⭐️ 5718)
+- [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable (⭐️ 3798)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (⭐️ 6762)
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (⭐️ 12761)
+- [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org) (⭐️ 5720)
 - [alpkeskin/rota](https://github.com/alpkeskin/rota) - A high-performance proxy rotation engine with automated IP management and real-time health monitoring (⭐️ 103)
-- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (⭐️ 8508)
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (⭐️ 39619)
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (⭐️ 8516)
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (⭐️ 39631)
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (⭐️ 5244)
-- [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP por (⭐️ 16409)
-- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket (⭐️ 11824)
-- [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11 (⭐️ 15307)
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S (⭐️ 38186)
+- [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP por (⭐️ 16410)
+- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket (⭐️ 11827)
+- [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11 (⭐️ 15311)
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S (⭐️ 38193)
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (⭐️ 1190)
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8637)
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8642)
 - [junkurihara/rust-rpxy-l4](https://github.com/junkurihara/rust-rpxy-l4) - An L4 reverse proxy with protocol multiplexer, written in Rust (⭐️ 24)
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀) (⭐️ 122)
 - [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies. (⭐️ 301)
-- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (⭐️ 10954)
-- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server (⭐️ 13926)
-- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server (⭐️ 228)
-- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions (⭐️ 657)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65149)
-- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (⭐️ 4936)
+- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (⭐️ 10966)
+- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server (⭐️ 13928)
+- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server (⭐️ 229)
+- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions (⭐️ 659)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65164)
+- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (⭐️ 4942)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on) (⭐️ 1076)
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9326)
-- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (⭐️ 3350)
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9350)
+- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (⭐️ 3351)
 
 **[⬆️ Go back to top](#contents)**
 
 ## https 
 
-- [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org) (⭐️ 5718)
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (⭐️ 14421)
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (⭐️ 31200)
+- [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org) (⭐️ 5720)
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (⭐️ 14427)
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (⭐️ 31201)
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (⭐️ 5244)
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S (⭐️ 38186)
-- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server (⭐️ 228)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65149)
-- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (⭐️ 4936)
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software (⭐️ 4772)
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S (⭐️ 38193)
+- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server (⭐️ 229)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65164)
+- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (⭐️ 4942)
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software (⭐️ 4775)
 
 **[⬆️ Go back to top](#contents)**
 
 ## icon-font 
 
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️ 58394)
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️ 58418)
+
+**[⬆️ Go back to top](#contents)**
+
+## image-processing 
+
+- [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions. (⭐️ 1637)
 
 **[⬆️ Go back to top](#contents)**
 
 ## information-gathering 
 
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4283)
-- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT (⭐️ 12892)
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4289)
+- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT (⭐️ 12895)
 
 **[⬆️ Go back to top](#contents)**
 
 ## ios 
 
-- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1379)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
-- [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone (⭐️ 6206)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (⭐️ 29061)
+- [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting (⭐️ 3368)
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1380)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
+- [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone (⭐️ 6212)
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验 (⭐️ 5900)
 
 **[⬆️ Go back to top](#contents)**
 
 ## iot 
 
-- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket (⭐️ 11824)
-- [cunicu/cunicu](https://github.com/cunicu/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE) (⭐️ 215)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (⭐️ 10173)
-- [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker (⭐️ 1358)
-- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles (⭐️ 14951)
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime (⭐️ 7608)
+- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket (⭐️ 11827)
+- [cunicu/cunicu](https://github.com/cunicu/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE) (⭐️ 216)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (⭐️ 10194)
+- [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker (⭐️ 1359)
+- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles (⭐️ 14956)
 
 **[⬆️ Go back to top](#contents)**
 
 ## ipfs 
 
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr (⭐️ 1985)
-- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 803)
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 809)
 
 **[⬆️ Go back to top](#contents)**
 
 ## java 
 
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3452)
+- [oblac/jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Zero dependencies. Use what you like. (⭐️ 4064)
+- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3454)
 - [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme (⭐️ 792)
 - [antville/antville](https://github.com/antville/antville) - The Queen Mum of Weblog Hosting Systems – written in server-side JavaScript since 2001. (⭐️ 82)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37320)
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (⭐️ 11213)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37337)
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (⭐️ 11218)
 
 **[⬆️ Go back to top](#contents)**
 
 ## javafx 
 
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (⭐️ 11213)
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (⭐️ 11218)
 
 **[⬆️ Go back to top](#contents)**
 
 ## javascript 
 
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3452)
-- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13181)
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67144)
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30046)
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30753)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35486)
-- [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds. (⭐️ 3877)
+- [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. (⭐️ 11490)
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (⭐️ 15387)
+- [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具 (⭐️ 1655)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (⭐️ 8619)
+- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3454)
+- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13183)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67154)
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30047)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30761)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35495)
+- [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds. (⭐️ 3878)
 - [antville/antville](https://github.com/antville/antville) - The Queen Mum of Weblog Hosting Systems – written in server-side JavaScript since 2001. (⭐️ 82)
-- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27467)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
-- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12895)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
-- [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects! (⭐️ 2378)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37320)
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27473)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12899)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
+- [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects! (⭐️ 2380)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37337)
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀 (⭐️ 791)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117261)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (⭐️ 19717)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117270)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (⭐️ 19742)
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer (⭐️ 1088)
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry (⭐️ 16972)
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24179)
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry (⭐️ 16980)
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24196)
 - [so1ve/crpr](https://github.com/so1ve/crpr) - Create a promise, but avoid using constructors. (⭐️ 4)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29130)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35793)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29652)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35826)
 - [HiNinoJay/hexo-theme-A4](https://github.com/HiNinoJay/hexo-theme-A4) - A hexo theme that looks like an A4 paper.（一个类A4纸张质感的hexo博客主题。） (⭐️ 548)
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (⭐️ 32629)
-- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (⭐️ 1405)
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (⭐️ 32640)
+- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (⭐️ 1406)
 
 **[⬆️ Go back to top](#contents)**
 
 ## jenkins 
 
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ (⭐️ 16111)
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ (⭐️ 16114)
+
+**[⬆️ Go back to top](#contents)**
+
+## jquery 
+
+- [oblac/jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Zero dependencies. Use what you like. (⭐️ 4064)
 
 **[⬆️ Go back to top](#contents)**
 
 ## json 
 
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim (⭐️ 8253)
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim (⭐️ 8252)
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry]. (⭐️ 1130)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (⭐️ 19717)
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor (⭐️ 19620)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (⭐️ 19742)
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor (⭐️ 19624)
 
 **[⬆️ Go back to top](#contents)**
 
 ## koa 
 
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67144)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67154)
 
 **[⬆️ Go back to top](#contents)**
 
 ## kotlin 
 
-- [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. (⭐️ 1597)
-- [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies. (⭐️ 296)
-- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment. (⭐️ 1753)
+- [cyb3rko/flashdim](https://github.com/cyb3rko/flashdim) - Modern flashlight app with dim functionality on Android 13+ (⭐️ 995)
+- [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. (⭐️ 1598)
+- [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies. (⭐️ 297)
+- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment. (⭐️ 1754)
 
 **[⬆️ Go back to top](#contents)**
 
 ## kubernetes 
 
-- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard (⭐️ 248)
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3452)
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and  (⭐️ 6593)
-- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring (⭐️ 6790)
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ (⭐️ 16111)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (⭐️ 21899)
-- [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier. (⭐️ 4252)
+- [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go (⭐️ 640)
+- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers (⭐️ 16641)
+- [scrayosnet/xenos](https://github.com/scrayosnet/xenos) - Minecraft Profile Information Proxy (⭐️ 25)
+- [scrayosnet/passage](https://github.com/scrayosnet/passage) - Minecraft Server Transfer Router to connect your Minecraft servers to the internet without any proxy or state. (⭐️ 4)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (⭐️ 16701)
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ (⭐️ 24247)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (⭐️ 16630)
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀 (⭐️ 6691)
+- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard (⭐️ 450)
+- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3454)
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and  (⭐️ 6594)
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring (⭐️ 6793)
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ (⭐️ 16114)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (⭐️ 21905)
+- [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier. (⭐️ 4253)
 - [openebs/mayastor](https://github.com/openebs/mayastor) - Dynamically provision Stateful Persistent Replicated Cluster-wide Fabric Volumes & Filesystems for Kubernetes that is provisioned from an optimized NVME SPDK backend data storage stack. (⭐️ 866)
 - [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme (⭐️ 792)
-- [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies. (⭐️ 296)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (⭐️ 1304)
+- [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies. (⭐️ 297)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (⭐️ 1305)
 - [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers. (⭐️ 1534)
 - [Tiledesk/tiledesk](https://github.com/Tiledesk/tiledesk) - Install Tiledesk on your server using Helm for Kubernetes orchestration and Docker Compose for running multi-container Docker applications. Tiledesk provides an open-source solution comparable to Voic (⭐️ 225)
-- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3046)
+- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3047)
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services. (⭐️ 97)
 - [Edgio/vflow](https://github.com/Edgio/vflow) - Enterprise Network Flow Collector (IPFIX, sFlow, Netflow) (⭐️ 1130)
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. (⭐️ 10375)
-- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 803)
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4183)
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. (⭐️ 33410)
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry (⭐️ 16972)
-- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (⭐️ 2779)
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio (⭐️ 24932)
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. (⭐️ 10376)
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 809)
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4185)
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. (⭐️ 33419)
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry (⭐️ 16980)
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (⭐️ 2862)
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio (⭐️ 24942)
 - [vehagn/homelab](https://github.com/vehagn/homelab) - Configuration for my homelab running Talos Kubernetes provisioned with OpenTofu. (⭐️ 288)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (⭐️ 55291)
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (⭐️ 11213)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (⭐️ 55304)
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (⭐️ 11218)
 
 **[⬆️ Go back to top](#contents)**
 
 ## language 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (⭐️ 104630)
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid. (⭐️ 1712)
 
 **[⬆️ Go back to top](#contents)**
 
 ## laravel 
 
-- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system (⭐️ 4255)
-- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites. (⭐️ 2986)
-- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder (⭐️ 2656)
+- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system (⭐️ 4257)
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites. (⭐️ 2988)
+- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder (⭐️ 2657)
 - [fetzi/server-timing](https://github.com/fetzi/server-timing) - Collect backend metrics and provide them as Server-Timing header in your responses (⭐️ 44)
 
 **[⬆️ Go back to top](#contents)**
 
 ## library 
 
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S (⭐️ 38186)
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S (⭐️ 38193)
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations (⭐️ 206)
 - [xgfone/snippet](https://github.com/xgfone/snippet) - The code snippets of all kinds of languages and some docs. (⭐️ 228)
 
@@ -1300,107 +1489,124 @@
 
 ## linux 
 
-- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (⭐️ 6930)
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (⭐️ 14421)
+- [loong64/docker-library](https://github.com/loong64/docker-library) - Docker Images (⭐️ 6)
+- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers (⭐️ 16641)
+- [replydev/cotp](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality. (⭐️ 302)
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. (⭐️ 16403)
+- [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting (⭐️ 3368)
+- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. (⭐️ 6935)
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. (⭐️ 14427)
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients. (⭐️ 4858)
-- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux (⭐️ 5719)
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15050)
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux (⭐️ 5728)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15256)
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations (⭐️ 206)
-- [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier. (⭐️ 4252)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91570)
+- [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier. (⭐️ 4253)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91626)
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform. (⭐️ 318)
-- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11647)
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11650)
 - [ancwrd1/snx-rs](https://github.com/ancwrd1/snx-rs) - Open Source Linux Client For Check Point VPN Tunnels (⭐️ 191)
 - [LeoBorai/local-ip-address](https://github.com/LeoBorai/local-ip-address) - Retrieve system's local IP address and Network Interfaces/Adapters on FreeBSD, Linux, macOS and Windows (⭐️ 121)
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool (⭐️ 4676)
-- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux (⭐️ 1333)
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (⭐️ 24584)
-- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (⭐️ 5303)
-- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN (⭐️ 3251)
-- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1923)
-- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates (⭐️ 2494)
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool (⭐️ 4679)
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux (⭐️ 1335)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (⭐️ 24646)
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (⭐️ 5327)
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN (⭐️ 3252)
+- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1924)
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates (⭐️ 2497)
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds. (⭐️ 4168)
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim (⭐️ 8253)
-- [gamemann/XDP-Firewall](https://github.com/gamemann/XDP-Firewall) - A firewall that utilizes the Linux kernel's XDP hook. The XDP hook allows for very fast network processing on Linux systems. This is great for dropping malicious traffic from a (D)DoS attack. IPv6 is  (⭐️ 676)
-- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates (⭐️ 7451)
-- [knsd/daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons (⭐️ 556)
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3369)
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (⭐️ 11699)
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim (⭐️ 8252)
+- [gamemann/XDP-Firewall](https://github.com/gamemann/XDP-Firewall) - A firewall that utilizes the Linux kernel's XDP hook. The XDP hook allows for very fast network processing on Linux systems. This is great for dropping malicious traffic from a (D)DoS attack. IPv6 is  (⭐️ 677)
+- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates (⭐️ 7454)
+- [knsd/daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons (⭐️ 557)
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3370)
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (⭐️ 11701)
 - [SimonCahill/EndlesshReportGenerator](https://github.com/SimonCahill/EndlesshReportGenerator) - Simple C++ program that reads /var/log/syslog, filters out endlessh logs and determines basic stats, such as unique IPs, total accepted and closed connections. (⭐️ 6)
-- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2509)
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2517)
 
 **[⬆️ Go back to top](#contents)**
 
 ## llm 
 
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ (⭐️ 16111)
-- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. (⭐️ 5212)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39887)
-- [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust (⭐️ 985)
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (⭐️ 40637)
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8064)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (⭐️ 21117)
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial (⭐️ 10421)
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ (⭐️ 16114)
+- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. (⭐️ 5213)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39902)
+- [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust (⭐️ 987)
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (⭐️ 40686)
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8108)
 
 **[⬆️ Go back to top](#contents)**
 
 ## localization 
 
-- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (⭐️ 5178)
+- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (⭐️ 5182)
+
+**[⬆️ Go back to top](#contents)**
+
+## login 
+
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. (⭐️ 10336)
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (⭐️ 10960)
 
 **[⬆️ Go back to top](#contents)**
 
 ## low-code 
 
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37320)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37337)
 
 **[⬆️ Go back to top](#contents)**
 
 ## lua 
 
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager (⭐️ 2257)
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3369)
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26594)
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3370)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26599)
 
 **[⬆️ Go back to top](#contents)**
 
 ## mac 
 
 - [netaddr/netaddr](https://github.com/netaddr/netaddr) - A network address manipulation library for Python (⭐️ 810)
-- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux (⭐️ 5719)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39887)
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux (⭐️ 5728)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39902)
 
 **[⬆️ Go back to top](#contents)**
 
 ## machine-learning 
 
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8064)
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8108)
 
 **[⬆️ Go back to top](#contents)**
 
 ## macos 
 
+- [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting (⭐️ 3368)
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform. (⭐️ 318)
 - [LeoBorai/local-ip-address](https://github.com/LeoBorai/local-ip-address) - Retrieve system's local IP address and Network Interfaces/Adapters on FreeBSD, Linux, macOS and Windows (⭐️ 121)
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool (⭐️ 4676)
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (⭐️ 24584)
-- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (⭐️ 5303)
-- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN (⭐️ 3251)
-- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1923)
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3369)
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool (⭐️ 4679)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (⭐️ 24646)
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (⭐️ 5327)
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN (⭐️ 3252)
+- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1924)
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3370)
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验 (⭐️ 5900)
 
 **[⬆️ Go back to top](#contents)**
 
 ## markdown 
 
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42096)
+- [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × ENHANCEMENT PLUGIN for Typora/Markdown. (⭐️ 1995)
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books. (⭐️ 7848)
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42125)
 - [izyuumi/html2md-rs](https://github.com/izyuumi/html2md-rs) - HTML to Markdown converter written in Rust (⭐️ 21)
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (⭐️ 40637)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r (⭐️ 52035)
-- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. (⭐️ 13267)
-- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer (⭐️ 1355)
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community. (⭐️ 4784)
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (⭐️ 40686)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r (⭐️ 52057)
+- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. (⭐️ 13272)
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer (⭐️ 1356)
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community. (⭐️ 4785)
 - [SimonCahill/EndlesshReportGenerator](https://github.com/SimonCahill/EndlesshReportGenerator) - Simple C++ program that reads /var/log/syslog, filters out endlessh logs and determines basic stats, such as unique IPs, total accepted and closed connections. (⭐️ 6)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (⭐️ 18226)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (⭐️ 18240)
 
 **[⬆️ Go back to top](#contents)**
 
@@ -1410,12 +1616,21 @@
 
 **[⬆️ Go back to top](#contents)**
 
+## material-design 
+
+- [cyb3rko/flashdim](https://github.com/cyb3rko/flashdim) - Modern flashlight app with dim functionality on Android 13+ (⭐️ 995)
+
+**[⬆️ Go back to top](#contents)**
+
 ## minecraft 
 
+- [joesturge/lazymc-docker-proxy](https://github.com/joesturge/lazymc-docker-proxy) - Put your Minecraft containers to rest when idle. (⭐️ 50)
+- [scrayosnet/xenos](https://github.com/scrayosnet/xenos) - Minecraft Profile Information Proxy (⭐️ 25)
+- [scrayosnet/passage](https://github.com/scrayosnet/passage) - Minecraft Server Transfer Router to connect your Minecraft servers to the internet without any proxy or state. (⭐️ 4)
 - [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both developme (⭐️ 792)
-- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.6. (⭐️ 112)
+- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.6. (⭐️ 114)
 - [Shadowner/Infrarust](https://github.com/Shadowner/Infrarust) - High-Performance Minecraft Reverse Proxy in Rust (⭐️ 100)
-- [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies. (⭐️ 296)
+- [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies. (⭐️ 297)
 - [NickAcPT/nmsr-rs](https://github.com/NickAcPT/nmsr-rs) - NickAc's Minecraft Skin Renderer - Render Minecraft skins with true perspective (⭐️ 62)
 - [neocturne/MinedMap](https://github.com/neocturne/MinedMap) - Minecraft map renderer and viewer (⭐️ 122)
 - [azalea-rs/azalea](https://github.com/azalea-rs/azalea) - A collection of Rust crates for making Minecraft bots, clients, and tools. (⭐️ 506)
@@ -1427,393 +1642,440 @@
 
 ## mongodb 
 
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6162)
-- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4258)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35793)
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6171)
+- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4259)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35826)
 
 **[⬆️ Go back to top](#contents)**
 
 ## monitoring 
 
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3452)
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and  (⭐️ 6593)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (⭐️ 21899)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (⭐️ 25606)
-- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system (⭐️ 4255)
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (⭐️ 11483)
-- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring (⭐️ 1788)
+- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3454)
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and  (⭐️ 6594)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (⭐️ 21905)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (⭐️ 25648)
+- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system (⭐️ 4257)
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (⭐️ 11494)
+- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring (⭐️ 1789)
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free! (⭐️ 501)
-- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3046)
+- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3047)
 - [Edgio/vflow](https://github.com/Edgio/vflow) - Enterprise Network Flow Collector (IPFIX, sFlow, Netflow) (⭐️ 1130)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (⭐️ 15645)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22521)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (⭐️ 15655)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22531)
 
 **[⬆️ Go back to top](#contents)**
 
 ## music 
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39887)
+- [ivanvorobei/SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music, Mail & Podcasts Apple's apps. (⭐️ 2745)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39902)
 - [debugger22/github-audio](https://github.com/debugger22/github-audio) - Listen to music generated by events happening across GitHub :octocat: 🎷 (⭐️ 1758)
-- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。 (⭐️ 5667)
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。 (⭐️ 5670)
 
 **[⬆️ Go back to top](#contents)**
 
 ## mysql 
 
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67144)
-- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (⭐️ 13428)
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (⭐️ 14985)
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19565)
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30046)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35486)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67154)
+- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (⭐️ 13430)
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (⭐️ 14995)
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19571)
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30047)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35495)
 - [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies. (⭐️ 301)
-- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27467)
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27473)
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free! (⭐️ 501)
-- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file (⭐️ 6879)
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6162)
+- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file (⭐️ 6887)
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6171)
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry]. (⭐️ 1130)
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server] (⭐️ 2641)
-- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4258)
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software (⭐️ 4772)
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more. (⭐️ 21770)
-- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2679)
+- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4259)
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software (⭐️ 4775)
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more. (⭐️ 21778)
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2681)
 
 **[⬆️ Go back to top](#contents)**
 
 ## nativescript 
 
-- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1379)
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1380)
 
 **[⬆️ Go back to top](#contents)**
 
 ## natural-language-processing 
 
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages (⭐️ 13262)
-- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production (⭐️ 9839)
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages (⭐️ 13264)
+- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production (⭐️ 9843)
 
 **[⬆️ Go back to top](#contents)**
 
 ## neovim 
 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26594)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26599)
 
 **[⬆️ Go back to top](#contents)**
 
 ## nestjs 
 
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free! (⭐️ 501)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29130)
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (⭐️ 31982)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29652)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (⭐️ 31990)
 
 **[⬆️ Go back to top](#contents)**
 
 ## nextjs 
 
-- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (⭐️ 8893)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️ 36826)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (⭐️ 8619)
+- [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages. (⭐️ 305)
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (⭐️ 8895)
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️ 36838)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better. (⭐️ 701)
 - [geekskai/blog](https://github.com/geekskai/blog) - 🚀 2025 Most Popular FREE Blog Template! Next.js 14, Zero Code - Just Write & Deploy | 2025最火免费博客模板！支持Markdown，一键部署，极致性能！⚡️ ✨ Write in Markdown, get your professional blog in minutes. Custom domain &  (⭐️ 78)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22521)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35793)
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more. (⭐️ 21770)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22531)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35826)
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more. (⭐️ 21778)
 - [shellbear/shellbear.me](https://github.com/shellbear/shellbear.me) - Source code of my personal website and blog ✨ (⭐️ 317)
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (⭐️ 31982)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (⭐️ 31990)
 
 **[⬆️ Go back to top](#contents)**
 
 ## nlp 
 
-- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production (⭐️ 9839)
+- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production (⭐️ 9843)
 - [messense/jieba-rs](https://github.com/messense/jieba-rs) - The Jieba Chinese Word Segmentation Implemented in Rust (⭐️ 827)
 
 **[⬆️ Go back to top](#contents)**
 
 ## no-code 
 
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67144)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67154)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
 
 **[⬆️ Go back to top](#contents)**
 
 ## node 
 
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
 
 **[⬆️ Go back to top](#contents)**
 
 ## nodejs 
 
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3452)
-- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses. (⭐️ 10333)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21208)
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67144)
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30046)
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2357)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (⭐️ 36980)
+- [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura. (⭐️ 402)
+- [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database. (⭐️ 4108)
+- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3454)
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses. (⭐️ 10337)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21219)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67154)
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30047)
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2356)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀 (⭐️ 791)
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services. (⭐️ 97)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117261)
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry (⭐️ 16972)
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3369)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35793)
-- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. (⭐️ 6337)
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (⭐️ 32629)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (⭐️ 117270)
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry (⭐️ 16980)
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3370)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35826)
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. (⭐️ 6338)
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (⭐️ 32640)
 
 **[⬆️ Go back to top](#contents)**
 
 ## nosql 
 
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (⭐️ 29530)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (⭐️ 29538)
 
 **[⬆️ Go back to top](#contents)**
 
 ## npm 
 
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry (⭐️ 16972)
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry (⭐️ 16980)
 
 **[⬆️ Go back to top](#contents)**
 
 ## open-source 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15050)
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (⭐️ 28373)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (⭐️ 21117)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15256)
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (⭐️ 1190)
-- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN (⭐️ 3251)
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN (⭐️ 3252)
 - [Tiledesk/tiledesk](https://github.com/Tiledesk/tiledesk) - Install Tiledesk on your server using Helm for Kubernetes orchestration and Docker Compose for running multi-container Docker applications. Tiledesk provides an open-source solution comparable to Voic (⭐️ 225)
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1351)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️ 36826)
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2357)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
-- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder (⭐️ 2656)
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2722)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22521)
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26594)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29130)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35793)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (⭐️ 40270)
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more. (⭐️ 21770)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18142)
-- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (⭐️ 1405)
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1352)
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️ 36838)
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2356)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
+- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder (⭐️ 2657)
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2726)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22531)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26599)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29652)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35826)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (⭐️ 40285)
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more. (⭐️ 21778)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18152)
+- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (⭐️ 1406)
 
 **[⬆️ Go back to top](#contents)**
 
 ## openai 
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39887)
-- [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust (⭐️ 985)
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8064)
+- [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy (⭐️ 1702)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39902)
+- [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust (⭐️ 987)
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8108)
 
 **[⬆️ Go back to top](#contents)**
 
 ## opengl 
 
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27868)
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27881)
 
 **[⬆️ Go back to top](#contents)**
 
 ## operating-system 
 
-- [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - DragonOS is an operating system developed from scratch using Rust, with Linux compatibility. It is designed for **Serverless** scenarios. 使用Rust从0自研内核，具有Linux兼容性的操作系统，面向云计算Serverless场景而设计。 (⭐️ 1007)
+- [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - DragonOS is an operating system developed from scratch using Rust, with Linux compatibility. It is designed for **Serverless** scenarios. 使用Rust从0自研内核，具有Linux兼容性的操作系统，面向云计算Serverless场景而设计。 (⭐️ 1009)
 
 **[⬆️ Go back to top](#contents)**
 
 ## osint 
 
-- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (⭐️ 11865)
-- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT (⭐️ 12892)
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8637)
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (⭐️ 11874)
+- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT (⭐️ 12895)
+- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. (⭐️ 8642)
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager (⭐️ 2257)
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (⭐️ 25332)
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (⭐️ 25346)
 
 **[⬆️ Go back to top](#contents)**
 
 ## others 
 
+- [ahmetb/serverless-registry-proxy](https://github.com/ahmetb/serverless-registry-proxy) - Serverless reverse proxy for exposing container registries (GCR, Docker Hub, Artifact Registry etc) on custom domains. (⭐️ 267)
+- [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework (⭐️ 4523)
+- [Facepunch/garrysmod](https://github.com/Facepunch/garrysmod) - Sandbox mod for the Source Engine (⭐️ 1099)
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic (⭐️ 15375)
+- [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst]. (⭐️ 1730)
+- [sam-goodwin/alchemy](https://github.com/sam-goodwin/alchemy) - Orchestrate the Cloud with pure TypeScript (⭐️ 619)
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (⭐️ 15215)
+- [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services (⭐️ 1404)
+- [DaoCloud/crproxy](https://github.com/DaoCloud/crproxy) - CRProxy (Container Registry Proxy) is a generic image proxy (⭐️ 480)
+- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks (⭐️ 2492)
+- [tomkeuper/BedWars2023](https://github.com/tomkeuper/BedWars2023) - A minecraft minigame where you have to defend your bed and destroy the others. Once your bed is destroyed, you cannot respawn. (⭐️ 72)
+- [beilunyang/moemail](https://github.com/beilunyang/moemail) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 (⭐️ 1360)
+- [mikumifa/biliTickerStorm](https://github.com/mikumifa/biliTickerStorm) - B站 会员购 分布式抢票 (⭐️ 103)
+- [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system (⭐️ 2818)
+- [brwse/bridge](https://github.com/brwse/bridge) - Brwse bridges let you connect LLM agents to tools and data using a secure, policy-enforcing proxy architecture. You can use the server aspect standalone, or unlock advanced features by signing up with (⭐️ 3)
+- [Chahine-tech/prox](https://github.com/Chahine-tech/prox) - Prox is a lightweight, high-performance reverse proxy server written in Rust. (⭐️ 2)
+- [mlesin/proxy-twister](https://github.com/mlesin/proxy-twister) - A flexible HTTP proxy switcher that intelligently routes traffic through different proxies (SOCKS5 or HTTP) based on target host patterns. (⭐️ 5)
+- [philipcristiano/docker-registry-cleaner](https://github.com/philipcristiano/docker-registry-cleaner) - Clean old images from your Docker registry (⭐️ 1)
+- [egorbabintcev/majula](https://github.com/egorbabintcev/majula) - 📦 Npm-compatible package registry (⭐️ 1)
+- [nhost/hasura-storage](https://github.com/nhost/hasura-storage) - Storage for Hasura built on top of S3 (⭐️ 230)
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al. (⭐️ 8204)
+- [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) - :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 (⭐️ 2195)
+- [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (⭐️ 5578)
+- [Omikorin/penpot-waves-generator](https://github.com/Omikorin/penpot-waves-generator) - Create beautiful, customizable wave patterns for your web designs! (⭐️ 6)
+- [ChromaxS/challenge-icmprs](https://github.com/ChromaxS/challenge-icmprs) - An asynchronous ICMP ping implementation in Rust. (⭐️ 4)
+- [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux. (⭐️ 1514)
+- [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api) (⭐️ 2041)
+- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers (⭐️ 4616)
+- [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more! (⭐️ 983)
+- [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security (⭐️ 20367)
+- [MuShibo/Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！ (⭐️ 2050)
+- [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news (⭐️ 11662)
+- [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) (⭐️ 9645)
+- [ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！ (⭐️ 3136)
+- [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制 (⭐️ 8296)
+- [pdcxs/examora](https://github.com/pdcxs/examora) - Template for examination papers (⭐️ 4)
+- [Tokeii0/LovelyMem](https://github.com/Tokeii0/LovelyMem) - 基于Memprocfs和Volatility的可视化内存取证工具 (⭐️ 1165)
 - [grandcat/zeroconf](https://github.com/grandcat/zeroconf) - mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour) (⭐️ 819)
-- [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新 (⭐️ 3097)
-- [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...) (⭐️ 4497)
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux (⭐️ 9323)
+- [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新 (⭐️ 3099)
+- [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...) (⭐️ 4498)
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux (⭐️ 9325)
 - [esrrhs/spp](https://github.com/esrrhs/spp) - A simple and powerful proxy (⭐️ 869)
 - [mubeng/mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease. (⭐️ 1863)
-- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever. (⭐️ 9061)
-- [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available (⭐️ 4929)
-- [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface (⭐️ 4732)
+- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever. (⭐️ 9063)
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available (⭐️ 4932)
+- [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface (⭐️ 4733)
 - [yunline/BSGFSSM](https://github.com/yunline/BSGFSSM) - 运动会广播稿生成器-Broadcast script generator for school sport meeting (⭐️ 3)
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. (⭐️ 26374)
-- [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器 (⭐️ 1929)
-- [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor (⭐️ 12188)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. (⭐️ 26419)
+- [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器 (⭐️ 1931)
+- [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor (⭐️ 12191)
 - [Isoheptane/bilibili-live-danmaku-cli](https://github.com/Isoheptane/bilibili-live-danmaku-cli) - A CLI tool for monitoring danmaku on Bilibili Live (⭐️ 24)
 - [YukariChiba/prescription](https://github.com/YukariChiba/prescription) - 处方模板 (⭐️ 42)
 - [Cryolitia/pgp-sig2dot](https://github.com/Cryolitia/pgp-sig2dot) - OpenPGP sign party tool —— Visualize the Web of Trust (⭐️ 6)
 - [mpolden/zdns](https://github.com/mpolden/zdns) - A privacy-focused DNS resolver and DNS sinkhole (⭐️ 30)
-- [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence. (⭐️ 8422)
-- [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. (⭐️ 5554)
+- [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence. (⭐️ 8425)
+- [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. (⭐️ 5555)
 - [mozilla/cipherscan](https://github.com/mozilla/cipherscan) - A very simple way to find out which SSL ciphersuites are supported by a target. (⭐️ 1980)
-- [rbsec/sslscan](https://github.com/rbsec/sslscan) - sslscan tests SSL/TLS enabled services to discover supported cipher suites (⭐️ 2473)
+- [rbsec/sslscan](https://github.com/rbsec/sslscan) - sslscan tests SSL/TLS enabled services to discover supported cipher suites (⭐️ 2474)
 - [shmilylty/netspy](https://github.com/shmilylty/netspy) - netspy是一款快速探测内网可达网段工具（深信服深蓝实验室天威战队强力驱动） (⭐️ 2114)
-- [lejianwen/rustdesk-server](https://github.com/lejianwen/rustdesk-server) - RustDesk Server  For Api  https://github.com/lejianwen/rustdesk-api (⭐️ 121)
+- [lejianwen/rustdesk-server](https://github.com/lejianwen/rustdesk-server) - RustDesk Server  For Api  https://github.com/lejianwen/rustdesk-api (⭐️ 122)
 - [emabee/flexi_logger](https://github.com/emabee/flexi_logger) - A flexible logger for rust programs that can write to stderr, stdout, and/or to log files (⭐️ 350)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (⭐️ 29875)
-- [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! (⭐️ 7500)
-- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal. (⭐️ 2225)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (⭐️ 29978)
+- [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! (⭐️ 7524)
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal. (⭐️ 2226)
 - [robur-coop/dnsvizor](https://github.com/robur-coop/dnsvizor) - A DNSmasq-like MirageOS unikernel (⭐️ 25)
 - [brutella/dnssd](https://github.com/brutella/dnssd) - This library implements Multicast DNS (mDNS) and DNS-Based Service Discovery (DNS-SD) for Zero Configuration Networking in Go. (⭐️ 219)
 - [vanvught/rpidmx512](https://github.com/vanvught/rpidmx512) - Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice / Raspberry Pi (⭐️ 422)
 - [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - a dialect of The Monkey Programming Language (⭐️ 3324)
 - [RavitejaKarra24/keyboardMouseLogger](https://github.com/RavitejaKarra24/keyboardMouseLogger) - Logs key presses, mouse clicks, travel, scroll steps (⭐️ 1)
-- [BitVM/BitVM](https://github.com/BitVM/BitVM) - A Trust-minimized Bitcoin Bridge (⭐️ 447)
+- [BitVM/BitVM](https://github.com/BitVM/BitVM) - A Trust-minimized Bitcoin Bridge (⭐️ 448)
 - [Kioubit/FlapAlerted](https://github.com/Kioubit/FlapAlerted) - BGP Update based flap detection (⭐️ 22)
 - [Nat-Lab/cn-routefeed](https://github.com/Nat-Lab/cn-routefeed) - A BGP speaker that feeds all China IPv4 delegations to peer. (⭐️ 32)
 - [apernet/apermon](https://github.com/apernet/apermon) - apernet's sflow monitoring program (⭐️ 32)
 - [BoomEaro/NanoLimbo](https://github.com/BoomEaro/NanoLimbo) - The lightweight, high performance Minecraft limbo server (⭐️ 32)
 - [jam1garner/smash-minecraft-skins](https://github.com/jam1garner/smash-minecraft-skins) - A mod for downloading and using your own minecraft skin to use in game, just enter your username! (⭐️ 113)
 - [mat-1/matscan](https://github.com/mat-1/matscan) - silly minecraft server scanner (⭐️ 252)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (⭐️ 2767)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (⭐️ 2772)
 - [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally. (⭐️ 1176)
-- [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud! (⭐️ 12759)
+- [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud! (⭐️ 12766)
 - [seatsurfing/seatsurfing](https://github.com/seatsurfing/seatsurfing) - Desk sharing, room reservation, free seating, and co-working in your organization. (⭐️ 220)
 - [derfenix/webarchive](https://github.com/derfenix/webarchive) - Own webarchive service (⭐️ 145)
 - [urania-dev/snapp](https://github.com/urania-dev/snapp) - Yet Another Url Shortner. A simple excercise to learn Svelte. (⭐️ 278)
 - [amuluze/amprobe](https://github.com/amuluze/amprobe) - 轻量级主机及容器监控服务 (⭐️ 486)
-- [composecraft/composecraft](https://github.com/composecraft/composecraft) -  (⭐️ 871)
-- [RICwang/docker-wechat](https://github.com/RICwang/docker-wechat) - 在docker里运行wechat，可以通过web或者VNC访问wechat (⭐️ 777)
-- [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制 (⭐️ 4225)
+- [composecraft/composecraft](https://github.com/composecraft/composecraft) -  (⭐️ 870)
+- [RICwang/docker-wechat](https://github.com/RICwang/docker-wechat) - 在docker里运行wechat，可以通过web或者VNC访问wechat (⭐️ 778)
+- [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制 (⭐️ 4227)
 - [revenz/Fenrus](https://github.com/revenz/Fenrus) - A personal home page for quick access to all your personal apps/sites. (⭐️ 672)
-- [kyutai-labs/hibiki](https://github.com/kyutai-labs/hibiki) - Hibiki is a model for streaming speech translation (also known as simultaneous translation). Unlike offline translation—where one waits for the end of the source utterance to start translating--- Hibi (⭐️ 1131)
+- [kyutai-labs/hibiki](https://github.com/kyutai-labs/hibiki) - Hibiki is a model for streaming speech translation (also known as simultaneous translation). Unlike offline translation—where one waits for the end of the source utterance to start translating--- Hibi (⭐️ 1133)
 - [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - Very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support (⭐️ 3529)
 - [CESNET/ipfixcol2](https://github.com/CESNET/ipfixcol2) - High-performance NetFlow v5/v9 and IPFIX collector (RFC7011) (⭐️ 162)
-- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (⭐️ 1674)
+- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (⭐️ 1676)
 - [irino/softflowd](https://github.com/irino/softflowd) - softflowd:  A flow-based network traffic analyser capable of Cisco NetFlow data export software. (⭐️ 191)
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust. (⭐️ 1218)
 - [DimensionDev/Flare](https://github.com/DimensionDev/Flare) - The ultimate next generation open-sourced AI powered decentralized social network client. (⭐️ 141)
-- [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine (⭐️ 1785)
-- [dndx/phantun](https://github.com/dndx/phantun) - Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs. (⭐️ 1954)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (⭐️ 22449)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (⭐️ 61907)
+- [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine (⭐️ 1786)
+- [dndx/phantun](https://github.com/dndx/phantun) - Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs. (⭐️ 1955)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (⭐️ 22452)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (⭐️ 61942)
 - [tu6ge/publish-action](https://github.com/tu6ge/publish-action) - Auto publish cargo when git push new version in cargo.toml, and tagging it with this version (⭐️ 18)
 - [reown-com/blockchain-api](https://github.com/reown-com/blockchain-api) - WalletConnect's Blockchain API (⭐️ 104)
-- [v03413/BEpusdt](https://github.com/v03413/BEpusdt) - 一款更好用的个人USDT收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker部署；支持独角发卡 易支付 异次元 萌次元发卡 (⭐️ 710)
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system. (⭐️ 4974)
-- [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network (⭐️ 4029)
-- [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) - 侦查守卫(observer_ward)Web应用和服务指纹识别工具 (⭐️ 1457)
-- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (⭐️ 10021)
+- [v03413/BEpusdt](https://github.com/v03413/BEpusdt) - 一款更好用的个人USDT收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker部署；支持独角发卡 易支付 异次元 萌次元发卡 (⭐️ 712)
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system. (⭐️ 4976)
+- [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network (⭐️ 4031)
+- [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) - 侦查守卫(observer_ward)Web应用和服务指纹识别工具 (⭐️ 1459)
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (⭐️ 10022)
 - [bgp/bgpq4](https://github.com/bgp/bgpq4) - BGP Filter generator (⭐️ 345)
 - [NLnetLabs/krill](https://github.com/NLnetLabs/krill) - RPKI Certificate Authority and Publication Server written in Rust (⭐️ 324)
 - [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror. (⭐️ 851)
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (⭐️ 22063)
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (⭐️ 22074)
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) - A lightweight, memory-protected, message-passing kernel for deeply embedded systems. (⭐️ 3193)
-- [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust. (⭐️ 19826)
-- [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js (⭐️ 1508)
+- [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust. (⭐️ 19827)
+- [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js (⭐️ 1509)
 - [jdx/expr.rs](https://github.com/jdx/expr.rs) - Implementation of go's expr in rust (⭐️ 20)
-- [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable. (⭐️ 945)
-- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (⭐️ 2216)
+- [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable. (⭐️ 946)
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux (⭐️ 2219)
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - One code quality tool to rule them all (⭐️ 130)
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (⭐️ 26149)
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (⭐️ 26165)
 - [oconnor663/duct.rs](https://github.com/oconnor663/duct.rs) - a Rust library for running child processes (⭐️ 909)
 - [fowles/pratdiff](https://github.com/fowles/pratdiff) - A diff tool that provides line and token level colorization. (⭐️ 12)
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations (⭐️ 728)
-- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) - Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~100% confidence) (⭐️ 272)
-- [allgood/OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Android application for scanning and manipulating handwritten notes and documents. (⭐️ 1437)
-- [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions (⭐️ 1526)
+- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) - Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~100% confidence) (⭐️ 273)
+- [allgood/OpenNoteScanner](https://github.com/allgood/OpenNoteScanner) - Android application for scanning and manipulating handwritten notes and documents. (⭐️ 1438)
+- [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions (⭐️ 1528)
 - [MRDXHMAGIC/MinecraftMusicMaker](https://github.com/MRDXHMAGIC/MinecraftMusicMaker) - Use Minecraft Sounds to Make Audios. (⭐️ 10)
-- [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React (⭐️ 2642)
-- [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统 (⭐️ 892)
+- [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React (⭐️ 2671)
+- [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统 (⭐️ 894)
 - [syfxlin/home](https://github.com/syfxlin/home) - :art: Otstar's Space的源码，个人主页。 (⭐️ 11)
 - [BedsAreDragons/MinecraftJavaWebSocket](https://github.com/BedsAreDragons/MinecraftJavaWebSocket) - Proxy Minecraft Java Servers through WebSockets. (⭐️ 2)
 - [rikka0w0/wsmc](https://github.com/rikka0w0/wsmc) - Enable Websocket support for Minecraft Java. (⭐️ 30)
 - [nxthdr/risotto](https://github.com/nxthdr/risotto) - High-performance BMP collector. (⭐️ 6)
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (⭐️ 10363)
-- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (⭐️ 448)
-- [uvdesk/community-skeleton](https://github.com/uvdesk/community-skeleton) - UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration. (⭐️ 12320)
+- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (⭐️ 10364)
+- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway (⭐️ 449)
+- [uvdesk/community-skeleton](https://github.com/uvdesk/community-skeleton) - UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration. (⭐️ 12352)
 - [etkecc/honoroit](https://github.com/etkecc/honoroit) - A helpdesk matrix bot (⭐️ 18)
 - [miyurusankalpa/IPv6Data](https://github.com/miyurusankalpa/IPv6Data) - IPv6 data from various sources (⭐️ 8)
-- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (⭐️ 357)
-- [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes. (⭐️ 2293)
+- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (⭐️ 360)
+- [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes. (⭐️ 2301)
 - [Akaere-NetWorks/whois](https://github.com/Akaere-NetWorks/whois) - Simple Whois Tools (⭐️ 1)
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week. (⭐️ 798)
 - [aredridel/mulm](https://github.com/aredridel/mulm) - µ mailing list manager (⭐️ 9)
 - [danobi/prr](https://github.com/danobi/prr) - Mailing list style code reviews for github (⭐️ 339)
-- [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management (⭐️ 1743)
+- [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management (⭐️ 1744)
 - [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2 (⭐️ 338)
 - [Akaere-NetWorks/IP-API](https://github.com/Akaere-NetWorks/IP-API) - 低速的IP信息查询工具 (⭐️ 1)
 - [NLnetLabs/roto-api](https://github.com/NLnetLabs/roto-api) -  (⭐️ 9)
 - [NodeSeekDev/NodeScriptKit](https://github.com/NodeSeekDev/NodeScriptKit) - 社区驱动的服务器脚本快捷收藏夹 (⭐️ 270)
 - [iedon/iedon-net-frontend](https://github.com/iedon/iedon-net-frontend) - DN42 Auto Peering System for IEDON-NET. Implemented with Vue3. (⭐️ 6)
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs (⭐️ 304)
-- [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography. (⭐️ 460)
-- [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner (⭐️ 8027)
-- [prinsss/blog-friend-circle](https://github.com/prinsss/blog-friend-circle) - Show latest posts from your subscribed blogs as a more attractive friends page. (博客友链朋友圈) (⭐️ 39)
-- [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。 (⭐️ 2079)
+- [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography. (⭐️ 461)
+- [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner (⭐️ 8029)
+- [prinsss/blog-friend-circle](https://github.com/prinsss/blog-friend-circle) - Show latest posts from your subscribed blogs as a more attractive friends page. (博客友链朋友圈) (⭐️ 40)
+- [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。 (⭐️ 2082)
 - [huihuimoe/my-image](https://github.com/huihuimoe/my-image) - Some examples to build Docker images. (⭐️ 1)
 - [sakura-ryoko/tweakermore](https://github.com/sakura-ryoko/tweakermore) - A collection of client-side tweak kits to enhance your Minecraft game experience. Tweak Minecraft and beyond! (⭐️ 29)
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (⭐️ 29355)
-- [RylanBot/melody-canvas](https://github.com/RylanBot/melody-canvas) - 🎼 Audio visualization editor「音频可视化画布」 (⭐️ 214)
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (⭐️ 29387)
+- [RylanBot/melody-canvas](https://github.com/RylanBot/melody-canvas) - 🎼 Audio visualization editor「音频可视化画布」 (⭐️ 215)
 - [YYsuni/path-motion](https://github.com/YYsuni/path-motion) - SVG path motion development tools (⭐️ 132)
-- [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client (⭐️ 1287)
+- [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client (⭐️ 1289)
 - [Skywt2003/Writecho](https://github.com/Skywt2003/Writecho) - A fully hand-written Typecho theme. (⭐️ 84)
 - [silenceshell/hcache](https://github.com/silenceshell/hcache) - showing top X biggest cache files global (⭐️ 630)
 - [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog is an open-source, simple, and beautiful blog built with Astro (⭐️ 455)
-- [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (⭐️ 1269)
+- [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (⭐️ 1270)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (⭐️ 68)
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer (⭐️ 1133)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (⭐️ 16465)
-- [electh/nextflux](https://github.com/electh/nextflux) - Yet another web-based frontend for Miniflux (⭐️ 238)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (⭐️ 16524)
+- [electh/nextflux](https://github.com/electh/nextflux) - Yet another web-based frontend for Miniflux (⭐️ 239)
 - [KevinCFechtel/FluxNews](https://github.com/KevinCFechtel/FluxNews) - A simple Newsreader for the miniflux backend (https://miniflux.app). (⭐️ 65)
 - [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) - SSHamble: Unexpected Exposures in SSH (⭐️ 967)
 - [Gedaric/astro-gyoza](https://github.com/Gedaric/astro-gyoza) - A simple and cute static blog template built with Astro and React.🥟🥟🥟 (⭐️ 2)
-- [lxchapu/astro-gyoza](https://github.com/lxchapu/astro-gyoza) - A simple and cute static blog template built with Astro and React.🥟🥟🥟 (⭐️ 174)
+- [lxchapu/astro-gyoza](https://github.com/lxchapu/astro-gyoza) - A simple and cute static blog template built with Astro and React.🥟🥟🥟 (⭐️ 175)
 - [yuazhi/Imitate-GitHub](https://github.com/yuazhi/Imitate-GitHub) - 一个仿制github的个人主页（仅供学习交流个人使用禁止商用） (⭐️ 3)
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) - Make every request from a separate IPv6 address. (⭐️ 585)
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN (⭐️ 46517)
-- [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo. (⭐️ 15898)
-- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。 (⭐️ 1406)
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN (⭐️ 46581)
+- [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo. (⭐️ 15897)
+- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。 (⭐️ 1410)
 - [iedon/dn42_map](https://github.com/iedon/dn42_map) - DN42 Realtime Network Map(map.dn42) source code and CI/CD.  https://map.iedon.net/ (⭐️ 12)
 - [small-tou/js2image](https://github.com/small-tou/js2image) - 一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool can compress JavaScript code to any ascii image and still run normally ) (⭐️ 1549)
-- [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。 (⭐️ 5606)
+- [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。 (⭐️ 5607)
 - [pysio2007/Rust-OpenBmclapi](https://github.com/pysio2007/Rust-OpenBmclapi) - Rust Verison OpenBmclapi (⭐️ 4)
 - [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict (⭐️ 2122)
 - [Gaurav-Gosain/sshnake](https://github.com/Gaurav-Gosain/sshnake) - SSHnake is a classic single player Snake game built with Bubbletea served over SSH using Wish! (⭐️ 8)
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH (⭐️ 1929)
 - [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go) - 一个用来下载/分享网易云歌曲的Telegram Bot (⭐️ 886)
-- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (⭐️ 229)
+- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (⭐️ 230)
 - [ecix/alice-lg](https://github.com/ecix/alice-lg) - Alice - Through the Looking Glass (⭐️ 51)
 - [ecix/birdseye](https://github.com/ecix/birdseye) - Birdseye Bird Looking Glass (⭐️ 28)
 - [czerwonk/bird_exporter](https://github.com/czerwonk/bird_exporter) - Bird protocol state exporter for bird routing daemon to use with https://prometheus.io/ (⭐️ 187)
 - [pierky/arouteserver](https://github.com/pierky/arouteserver) - A tool to automatically build (and test) feature-rich configurations for BGP route servers. (⭐️ 302)
-- [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System (⭐️ 1579)
+- [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System (⭐️ 1580)
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web. (⭐️ 3576)
 - [zyyv/zyyv.dev](https://github.com/zyyv/zyyv.dev) - My personal website. (⭐️ 65)
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure. (⭐️ 23925)
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure. (⭐️ 23933)
 - [Mxmilu666/Nyauth](https://github.com/Mxmilu666/Nyauth) - A Simple SSO based on Golang and VueJs (⭐️ 3)
 - [backrunner/outbound-image-processor](https://github.com/backrunner/outbound-image-processor) - Image processor worker for Cloudflare R2 (⭐️ 3)
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server (⭐️ 1159)
 - [natesales/pathvector](https://github.com/natesales/pathvector) - Declarative routing platform that automates BGP route optimization and control plane configuration with secure and repeatable routing policy. (⭐️ 238)
-- [micr0-dev/Altbot](https://github.com/micr0-dev/Altbot) - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio. (⭐️ 81)
-- [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows. (⭐️ 11373)
+- [micr0-dev/Altbot](https://github.com/micr0-dev/Altbot) - Accessibility bot designed to enhance the Fediverse by generating alt-text descriptions for images, video, and audio. (⭐️ 82)
+- [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows. (⭐️ 11381)
 
 **[⬆️ Go back to top](#contents)**
 
 ## p2p 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91570)
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (⭐️ 73098)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91626)
 - [TokTok/c-toxcore](https://github.com/TokTok/c-toxcore) - The future of online communications. (⭐️ 2436)
-- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 803)
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 809)
 
 **[⬆️ Go back to top](#contents)**
 
 ## package-manager 
 
-- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy (⭐️ 4587)
+- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy (⭐️ 4590)
 
 **[⬆️ Go back to top](#contents)**
 
 ## penetration-testing 
 
-- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13041)
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4283)
-- [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑 (⭐️ 8538)
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13047)
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4289)
+- [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑 (⭐️ 8540)
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner (⭐️ 908)
 - [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust (⭐️ 578)
 
@@ -1821,15 +2083,15 @@
 
 ## pentesting 
 
-- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13041)
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4283)
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13047)
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4289)
 - [b1-team/superman](https://github.com/b1-team/superman) - 🤖 Kill The Protected Process 🤖 (⭐️ 439)
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner (⭐️ 908)
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager (⭐️ 2257)
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing. (⭐️ 1153)
 - [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust (⭐️ 578)
-- [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of shijack (⭐️ 509)
-- [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions (⭐️ 5511)
+- [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of shijack (⭐️ 510)
+- [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions (⭐️ 5514)
 
 **[⬆️ Go back to top](#contents)**
 
@@ -1842,198 +2104,214 @@
 ## php 
 
 - [hyperf/hyperf](https://github.com/hyperf/hyperf) - 🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease. (⭐️ 6525)
-- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. (⭐️ 11403)
-- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system (⭐️ 4255)
-- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1405)
-- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (⭐️ 3990)
-- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so (⭐️ 3856)
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! (⭐️ 5121)
-- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites. (⭐️ 2986)
-- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file (⭐️ 6879)
+- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. (⭐️ 11404)
+- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system (⭐️ 4257)
+- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1406)
+- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (⭐️ 3992)
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so (⭐️ 3861)
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! (⭐️ 5122)
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites. (⭐️ 2988)
+- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file (⭐️ 6887)
 - [fetzi/server-timing](https://github.com/fetzi/server-timing) - Collect backend metrics and provide them as Server-Timing header in your responses (⭐️ 44)
 
 **[⬆️ Go back to top](#contents)**
 
 ## postgresql 
 
-- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (⭐️ 13428)
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (⭐️ 14985)
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19565)
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30046)
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30753)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35486)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️ 36826)
-- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27467)
-- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file (⭐️ 6879)
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6162)
+- [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database. (⭐️ 4108)
+- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (⭐️ 13430)
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (⭐️ 14995)
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19571)
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30047)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30761)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35495)
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️ 36838)
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27473)
+- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file (⭐️ 6887)
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6171)
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry]. (⭐️ 1130)
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server] (⭐️ 2641)
-- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4258)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22743)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29130)
-- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2679)
+- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4259)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22750)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29652)
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2681)
 
 **[⬆️ Go back to top](#contents)**
 
 ## powershell 
 
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27407)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (⭐️ 49644)
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3369)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27429)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (⭐️ 49671)
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3370)
 
 **[⬆️ Go back to top](#contents)**
 
 ## privacy 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15050)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15256)
 - [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud). (⭐️ 558)
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (⭐️ 7349)
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1351)
-- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1379)
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (⭐️ 7351)
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1352)
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1380)
 - [prismelabs/analytics](https://github.com/prismelabs/analytics) - 💎 An Open Source, privacy-focused and progressive analytics service. (⭐️ 101)
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free! (⭐️ 501)
-- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3046)
+- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3047)
 - [explodingcamera/liwan](https://github.com/explodingcamera/liwan) - liwan - Lightweight Analytics (⭐️ 60)
-- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12895)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️ 233913)
-- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates (⭐️ 2494)
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (⭐️ 25332)
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12899)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️ 234051)
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates (⭐️ 2497)
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (⭐️ 25346)
 - [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc (⭐️ 750)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65149)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22743)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65164)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22750)
 
 **[⬆️ Go back to top](#contents)**
 
 ## productivity 
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21208)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39887)
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! (⭐️ 5121)
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (⭐️ 4484)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21219)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39902)
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! (⭐️ 5122)
 
 **[⬆️ Go back to top](#contents)**
 
 ## programming 
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39887)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39902)
 
 **[⬆️ Go back to top](#contents)**
 
 ## project-management 
 
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. (⭐️ 64075)
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. (⭐️ 64100)
 
 **[⬆️ Go back to top](#contents)**
 
 ## publishing 
 
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community. (⭐️ 4784)
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community. (⭐️ 4785)
 
 **[⬆️ Go back to top](#contents)**
 
 ## pwa 
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21208)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21219)
 
 **[⬆️ Go back to top](#contents)**
 
 ## python 
 
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager (⭐️ 1209)
+- [Mayumiwandi/Emilia](https://github.com/Mayumiwandi/Emilia) - Auto Scan Proxy IP ISP For Wolkers (⭐️ 8)
 - [netaddr/netaddr](https://github.com/netaddr/netaddr) - A network address manipulation library for Python (⭐️ 810)
-- [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service (⭐️ 1089)
+- [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service (⭐️ 1091)
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking (⭐️ 2160)
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3452)
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (⭐️ 39619)
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (⭐️ 7043)
-- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (⭐️ 7118)
-- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13041)
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4283)
-- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT (⭐️ 12892)
+- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF (⭐️ 3454)
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (⭐️ 39631)
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (⭐️ 7045)
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (⭐️ 7120)
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13047)
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4289)
+- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT (⭐️ 12895)
 - [ohaswin/pyscan](https://github.com/ohaswin/pyscan) - python dependency vulnerability scanner, written in Rust. (⭐️ 196)
-- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive. (⭐️ 2642)
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1351)
-- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27467)
-- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3046)
-- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python (⭐️ 3739)
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim (⭐️ 8253)
+- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive. (⭐️ 2643)
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1352)
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. (⭐️ 27473)
+- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3047)
+- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python (⭐️ 3740)
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim (⭐️ 8252)
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better. (⭐️ 701)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (⭐️ 59417)
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8064)
-- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2509)
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️ 58394)
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9326)
-- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. (⭐️ 6337)
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27868)
-- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (⭐️ 5178)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (⭐️ 59546)
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8108)
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2517)
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️ 58418)
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9350)
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. (⭐️ 6338)
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27881)
+- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration. (⭐️ 5182)
 - [eggheads/eggdrop](https://github.com/eggheads/eggdrop) - The Eggdrop IRC Bot (⭐️ 536)
 
 **[⬆️ Go back to top](#contents)**
 
 ## python3 
 
-- [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service (⭐️ 1089)
-- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1405)
-- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2509)
+- [nsupdate-info/nsupdate.info](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS service (⭐️ 1091)
+- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1406)
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2517)
+
+**[⬆️ Go back to top](#contents)**
+
+## qt 
+
+- [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.[一款开源的游戏变速器] (⭐️ 2404)
 
 **[⬆️ Go back to top](#contents)**
 
 ## rails 
 
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24179)
+- [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream. (⭐️ 6636)
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24196)
 
 **[⬆️ Go back to top](#contents)**
 
 ## raspberry-pi 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15050)
-- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. (⭐️ 6337)
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀 (⭐️ 6691)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15256)
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. (⭐️ 6338)
 
 **[⬆️ Go back to top](#contents)**
 
 ## react 
 
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30753)
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42096)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (⭐️ 29061)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (⭐️ 8619)
+- [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages. (⭐️ 305)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30761)
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42125)
 - [spellshift/realm](https://github.com/spellshift/realm) - Realm is a cross platform Red Team engagement platform with a focus on automation and reliability. (⭐️ 499)
-- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat (⭐️ 3322)
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. (⭐️ 2814)
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2357)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
-- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12895)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37320)
+- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat (⭐️ 3323)
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. (⭐️ 2816)
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2356)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12899)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37337)
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀 (⭐️ 791)
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services. (⭐️ 97)
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better. (⭐️ 701)
-- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 722)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22521)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29130)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35793)
-- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (⭐️ 14576)
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (⭐️ 32629)
+- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 724)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22531)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29652)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35826)
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (⭐️ 14579)
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. (⭐️ 32640)
 - [shellbear/shellbear.me](https://github.com/shellbear/shellbear.me) - Source code of my personal website and blog ✨ (⭐️ 317)
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components. (⭐️ 612)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (⭐️ 1613)
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (⭐️ 31982)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (⭐️ 31990)
 
 **[⬆️ Go back to top](#contents)**
 
 ## react-native 
 
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35486)
-- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1379)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35495)
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1380)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
 
 **[⬆️ Go back to top](#contents)**
 
 ## reactjs 
 
+- [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database. (⭐️ 4108)
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀 (⭐️ 791)
 - [geekskai/blog](https://github.com/geekskai/blog) - 🚀 2025 Most Popular FREE Blog Template! Next.js 14, Zero Code - Just Write & Deploy | 2025最火免费博客模板！支持Markdown，一键部署，极致性能！⚡️ ✨ Write in Markdown, get your professional blog in minutes. Custom domain &  (⭐️ 78)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22521)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29130)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22531)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29652)
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components. (⭐️ 612)
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (⭐️ 2309)
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (⭐️ 2312)
 
 **[⬆️ Go back to top](#contents)**
 
@@ -2045,67 +2323,93 @@
 
 ## rest-api 
 
-- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (⭐️ 3990)
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2722)
-- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (⭐️ 4936)
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9326)
-- [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook,  (⭐️ 4428)
-- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 76)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (⭐️ 36980)
+- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (⭐️ 3992)
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2726)
+- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (⭐️ 4942)
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9350)
+- [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook,  (⭐️ 4429)
+- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 77)
 
 **[⬆️ Go back to top](#contents)**
 
 ## reverse-engineering 
 
-- [KeenSecurityLab/BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector: Vulnerability Scanner for Binaries (⭐️ 1625)
+- [KeenSecurityLab/BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector: Vulnerability Scanner for Binaries (⭐️ 1626)
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. (⭐️ 46342)
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49587)
-- [0xdea/haruspex](https://github.com/0xdea/haruspex) - Vulnerability research assistant that extracts pseudo-code from the IDA Hex-Rays decompiler. (⭐️ 47)
-- [0xdea/augur](https://github.com/0xdea/augur) - Reverse engineering assistant that extracts strings and related pseudo-code from a binary file. (⭐️ 42)
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49601)
+- [0xdea/haruspex](https://github.com/0xdea/haruspex) - Vulnerability research assistant that extracts pseudo-code from the IDA Hex-Rays decompiler. (⭐️ 49)
+- [0xdea/augur](https://github.com/0xdea/augur) - Reverse engineering assistant that extracts strings and related pseudo-code from a binary file. (⭐️ 44)
 
 **[⬆️ Go back to top](#contents)**
 
 ## ruby 
 
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24179)
+- [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader. (⭐️ 4031)
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail (⭐️ 15636)
+- [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream. (⭐️ 6636)
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24196)
 
 **[⬆️ Go back to top](#contents)**
 
 ## rust 
 
-- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (⭐️ 3701)
-- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (⭐️ 8508)
-- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust (⭐️ 6439)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant (⭐️ 16566)
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (⭐️ 28373)
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (⭐️ 19792)
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (⭐️ 11021)
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (⭐️ 104630)
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (⭐️ 6331)
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (⭐️ 5327)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (⭐️ 29061)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (⭐️ 9234)
+- [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed (⭐️ 900)
+- [nyx-space/hifitime](https://github.com/nyx-space/hifitime) - A high fidelity time management library in Rust (⭐️ 434)
+- [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros. (⭐️ 2952)
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (⭐️ 4212)
+- [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy (⭐️ 1702)
+- [scrayosnet/xenos](https://github.com/scrayosnet/xenos) - Minecraft Profile Information Proxy (⭐️ 25)
+- [scrayosnet/passage](https://github.com/scrayosnet/passage) - Minecraft Server Transfer Router to connect your Minecraft servers to the internet without any proxy or state. (⭐️ 4)
+- [shengyanli1982/load-ants](https://github.com/shengyanli1982/load-ants) - 🐜🐜🐜 An lightweight DNS forwarder converting UDP/TCP queries to DoH and  DoH queries forwarding, written in Rust. (⭐️ 14)
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries (⭐️ 4280)
+- [wpcodevo/totp-rust](https://github.com/wpcodevo/totp-rust) - In this comprehensive guide, you'll learn how to implement two-factor authentication (2FA) in a Rust application using OTP tokens generated by an Authenticator app like Authy, Google Authenticator, or (⭐️ 37)
+- [replydev/cotp](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality. (⭐️ 302)
+- [constantoine/totp-rs](https://github.com/constantoine/totp-rs) - RFC-compliant TOTP implementation with ease of use as a goal and additionnal QoL features. (⭐️ 213)
+- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust. (⭐️ 3100)
+- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (⭐️ 3704)
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (⭐️ 8516)
+- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust (⭐️ 6442)
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations (⭐️ 206)
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, written in Rust. (⭐️ 553)
-- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (⭐️ 13428)
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (⭐️ 14985)
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27407)
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (⭐️ 53331)
-- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust (⭐️ 24240)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91570)
-- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (⭐️ 28905)
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (⭐️ 13346)
+- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (⭐️ 13430)
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (⭐️ 14995)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27429)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (⭐️ 53354)
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust (⭐️ 24261)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (⭐️ 91626)
+- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (⭐️ 28916)
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (⭐️ 13357)
 - [b1-team/superman](https://github.com/b1-team/superman) - 🤖 Kill The Protected Process 🤖 (⭐️ 439)
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform. (⭐️ 318)
 - [spellshift/realm](https://github.com/spellshift/realm) - Realm is a cross platform Red Team engagement platform with a focus on automation and reliability. (⭐️ 499)
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner (⭐️ 908)
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything! (⭐️ 1013)
 - [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS (⭐️ 1576)
-- [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. (⭐️ 2691)
+- [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. (⭐️ 2692)
 - [ohaswin/pyscan](https://github.com/ohaswin/pyscan) - python dependency vulnerability scanner, written in Rust. (⭐️ 196)
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager (⭐️ 2257)
 - [Kaned1as/html2md](https://github.com/Kaned1as/html2md) - [Mirror from GitLab] HTML 2 Markdown library written in Rust (⭐️ 35)
 - [izyuumi/html2md-rs](https://github.com/izyuumi/html2md-rs) - HTML to Markdown converter written in Rust (⭐️ 21)
-- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes. (⭐️ 9845)
-- [TC999/AppDataCleaner](https://github.com/TC999/AppDataCleaner) - 辅助清理Appdata的小工具，支持 GPT 解释文件夹用途 (⭐️ 236)
-- [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - DragonOS is an operating system developed from scratch using Rust, with Linux compatibility. It is designed for **Serverless** scenarios. 使用Rust从0自研内核，具有Linux兼容性的操作系统，面向云计算Serverless场景而设计。 (⭐️ 1007)
-- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. (⭐️ 5212)
-- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav... (⭐️ 8246)
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉 (⭐️ 11856)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (⭐️ 16004)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39887)
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes. (⭐️ 9844)
+- [TC999/AppDataCleaner](https://github.com/TC999/AppDataCleaner) - 辅助清理Appdata的小工具，支持 GPT 解释文件夹用途 (⭐️ 235)
+- [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - DragonOS is an operating system developed from scratch using Rust, with Linux compatibility. It is designed for **Serverless** scenarios. 使用Rust从0自研内核，具有Linux兼容性的操作系统，面向云计算Serverless场景而设计。 (⭐️ 1009)
+- [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models. (⭐️ 5213)
+- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav... (⭐️ 8249)
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉 (⭐️ 11867)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (⭐️ 16026)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39902)
 - [openebs/mayastor](https://github.com/openebs/mayastor) - Dynamically provision Stateful Persistent Replicated Cluster-wide Fabric Volumes & Filesystems for Kubernetes that is provisioned from an optimized NVME SPDK backend data storage stack. (⭐️ 866)
-- [holo-routing/holo](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks. (⭐️ 361)
+- [holo-routing/holo](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks. (⭐️ 362)
 - [junkurihara/rust-rpxy-l4](https://github.com/junkurihara/rust-rpxy-l4) - An L4 reverse proxy with protocol multiplexer, written in Rust (⭐️ 24)
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀) (⭐️ 122)
 - [Lucy-dot-dot/ssh-honeypot](https://github.com/Lucy-dot-dot/ssh-honeypot) - A small rust ssh honeypot with a virtual command line interface (⭐️ 1)
@@ -2115,235 +2419,252 @@
 - [SeaQL/starfish-ql](https://github.com/SeaQL/starfish-ql) - ✴️ An experimental graph database (⭐️ 113)
 - [LeoBorai/local-ip-address](https://github.com/LeoBorai/local-ip-address) - Retrieve system's local IP address and Network Interfaces/Adapters on FreeBSD, Linux, macOS and Windows (⭐️ 121)
 - [sireliah/dragit](https://github.com/sireliah/dragit) - Application for intuitive file sharing between devices. (⭐️ 155)
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool (⭐️ 4676)
-- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux (⭐️ 1333)
-- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (⭐️ 10954)
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (⭐️ 24584)
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool (⭐️ 4679)
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux (⭐️ 1335)
+- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (⭐️ 10966)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (⭐️ 24646)
 - [librespot-org/libmdns](https://github.com/librespot-org/libmdns) - mDNS Responder library for building discoverable LAN services in Rust (⭐️ 81)
-- [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust (⭐️ 985)
-- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (⭐️ 5303)
-- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN (⭐️ 3251)
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (⭐️ 11483)
-- [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust (⭐️ 3657)
-- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.6. (⭐️ 112)
+- [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust (⭐️ 987)
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (⭐️ 5327)
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN (⭐️ 3252)
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (⭐️ 11494)
+- [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust (⭐️ 3658)
+- [Quozul/PicoLimbo](https://github.com/Quozul/PicoLimbo) - A lightweight Minecraft server written from scratch in Rust supporting Minecraft versions from 1.7.2 up to 1.21.6. (⭐️ 114)
 - [Shadowner/Infrarust](https://github.com/Shadowner/Infrarust) - High-Performance Minecraft Reverse Proxy in Rust (⭐️ 100)
-- [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies. (⭐️ 296)
+- [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies. (⭐️ 297)
 - [NickAcPT/nmsr-rs](https://github.com/NickAcPT/nmsr-rs) - NickAc's Minecraft Skin Renderer - Render Minecraft skins with true perspective (⭐️ 62)
 - [azalea-rs/azalea](https://github.com/azalea-rs/azalea) - A collection of Rust crates for making Minecraft bots, clients, and tools. (⭐️ 506)
 - [robinst/linkify](https://github.com/robinst/linkify) - Rust library to find links such as URLs and email addresses in plain text, handling surrounding punctuation correctly (⭐️ 222)
 - [knurling-rs/flip-link](https://github.com/knurling-rs/flip-link) - Adds zero-cost stack overflow protection to your embedded programs (⭐️ 350)
 - [postrequest/link](https://github.com/postrequest/link) - link is a command and control framework written in rust (⭐️ 578)
 - [explodingcamera/liwan](https://github.com/explodingcamera/liwan) - liwan - Lightweight Analytics (⭐️ 60)
-- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance (⭐️ 1094)
-- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal (⭐️ 2926)
+- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance (⭐️ 1096)
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal (⭐️ 2925)
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (⭐️ 4789)
-- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (⭐️ 6351)
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (⭐️ 6350)
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client. (⭐️ 7155)
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (⭐️ 9962)
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (⭐️ 9968)
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights (⭐️ 764)
-- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀 (⭐️ 2762)
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (⭐️ 3633)
-- [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow (⭐️ 1393)
+- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀 (⭐️ 2764)
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (⭐️ 3635)
+- [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow (⭐️ 1394)
 - [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc (⭐️ 750)
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server] (⭐️ 2641)
-- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server (⭐️ 228)
-- [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client (⭐️ 1084)
-- [Canop/bacon](https://github.com/Canop/bacon) - background code checker (⭐️ 2619)
-- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4258)
+- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server (⭐️ 229)
+- [osa1/tiny](https://github.com/osa1/tiny) - A terminal IRC client (⭐️ 1085)
+- [Canop/bacon](https://github.com/Canop/bacon) - background code checker (⭐️ 2620)
+- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️ (⭐️ 4259)
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer (⭐️ 1088)
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4183)
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions. (⭐️ 4185)
 - [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer (⭐️ 1196)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (⭐️ 36601)
-- [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of shijack (⭐️ 509)
-- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (⭐️ 20834)
-- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (⭐️ 20822)
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (⭐️ 51140)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r (⭐️ 52035)
+- [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of shijack (⭐️ 510)
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (⭐️ 20846)
+- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (⭐️ 20834)
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (⭐️ 51155)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r (⭐️ 52057)
 - [NLnetLabs/rtrtr](https://github.com/NLnetLabs/rtrtr) - An RPKI Data Proxy (⭐️ 36)
 - [NLnetLabs/rpki-rs](https://github.com/NLnetLabs/rpki-rs) - An RPKI library for Rust (⭐️ 41)
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step. (⭐️ 1436)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (⭐️ 49644)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (⭐️ 49671)
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1247🚀) dependencies🚀 (⭐️ 3451)
-- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates (⭐️ 7451)
+- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates (⭐️ 7454)
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (⭐️ 20808)
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (⭐️ 414)
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8064)
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (⭐️ 8108)
 - [jdrouet/git-metrics](https://github.com/jdrouet/git-metrics) - A git extension to be able to track metrics about your project, within the git repository (⭐️ 99)
-- [knsd/daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons (⭐️ 556)
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (⭐️ 45840)
+- [knsd/daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons (⭐️ 557)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (⭐️ 46004)
 - [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross (⭐️ 697)
 - [dimo414/bkt](https://github.com/dimo414/bkt) - a subprocess caching utility, available as a command line binary and a Rust library. (⭐️ 289)
-- [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching. (⭐️ 2148)
+- [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A cargo-subcommand to speed up Rust Docker builds using Docker layer caching. (⭐️ 2156)
 - [kellnr/kellnr](https://github.com/kellnr/kellnr) - The registry for Rust crates (⭐️ 685)
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone. (⭐️ 714)
-- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions (⭐️ 657)
+- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions (⭐️ 659)
 - [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust. (⭐️ 2048)
-- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer (⭐️ 1355)
-- [microsoft/edit](https://github.com/microsoft/edit) - We all edit. (⭐️ 10730)
-- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 722)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (⭐️ 24227)
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (⭐️ 24760)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (⭐️ 25452)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output (⭐️ 26546)
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (⭐️ 8899)
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer (⭐️ 1356)
+- [microsoft/edit](https://github.com/microsoft/edit) - We all edit. (⭐️ 10898)
+- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 724)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (⭐️ 24246)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (⭐️ 24771)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (⭐️ 25461)
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output (⭐️ 26555)
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (⭐️ 8912)
 - [meli/mailpot](https://github.com/meli/mailpot) - 🍯 extensible, flexible mailing list manager (⭐️ 24)
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (⭐️ 11699)
-- [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust. (⭐️ 6010)
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software (⭐️ 4772)
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (⭐️ 11701)
+- [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust. (⭐️ 6013)
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software (⭐️ 4775)
 - [NLnetLabs/routinator](https://github.com/NLnetLabs/routinator) - An RPKI Validator and RTR server written in Rust (⭐️ 512)
-- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust. (⭐️ 5161)
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (⭐️ 15899)
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (⭐️ 15255)
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (⭐️ 19808)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (⭐️ 40270)
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse (⭐️ 13876)
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust. (⭐️ 5162)
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (⭐️ 15901)
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (⭐️ 15278)
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (⭐️ 19817)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (⭐️ 40285)
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse (⭐️ 13877)
 
 **[⬆️ Go back to top](#contents)**
 
 ## sass 
 
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24179)
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24196)
 
 **[⬆️ Go back to top](#contents)**
 
 ## scala 
 
-- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ (⭐️ 16787)
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ (⭐️ 16795)
 
 **[⬆️ Go back to top](#contents)**
 
 ## security 
 
-- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (⭐️ 3701)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (⭐️ 21899)
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (⭐️ 39619)
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA (⭐️ 2096)
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager (⭐️ 1209)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (⭐️ 21117)
+- [aldebaran1805/EtchDNS](https://github.com/aldebaran1805/EtchDNS) - A new DNS proxy designed for simplicity, security and extensibility with WebAssembly plugins. (⭐️ 2)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (⭐️ 16701)
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ (⭐️ 24247)
+- [ThinkAlexandria/BoringAuth](https://github.com/ThinkAlexandria/BoringAuth) - Straightforward password, passphrase, TOTP, and HOTP user authentication (⭐️ 58)
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless (⭐️ 16301)
+- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. (⭐️ 3704)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (⭐️ 21905)
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (⭐️ 39631)
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA (⭐️ 2100)
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients. (⭐️ 4858)
-- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp (⭐️ 6831)
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (⭐️ 7349)
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (⭐️ 7043)
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int (⭐️ 23776)
-- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (⭐️ 7118)
-- [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds. (⭐️ 3877)
-- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13041)
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (⭐️ 19638)
-- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. (⭐️ 4355)
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4283)
-- [KeenSecurityLab/BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector: Vulnerability Scanner for Binaries (⭐️ 1625)
-- [chaitin/xray](https://github.com/chaitin/xray) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档 (⭐️ 10996)
-- [chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools) - veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集 (⭐️ 1604)
+- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp (⭐️ 6835)
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (⭐️ 7351)
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (⭐️ 7045)
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int (⭐️ 23785)
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (⭐️ 7120)
+- [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds. (⭐️ 3878)
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner (⭐️ 13047)
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (⭐️ 19647)
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. (⭐️ 4356)
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4289)
+- [KeenSecurityLab/BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector: Vulnerability Scanner for Binaries (⭐️ 1626)
+- [chaitin/xray](https://github.com/chaitin/xray) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档 (⭐️ 11002)
+- [chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools) - veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集 (⭐️ 1605)
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform. (⭐️ 318)
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner (⭐️ 908)
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (⭐️ 1190)
 - [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS (⭐️ 1576)
-- [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. (⭐️ 2691)
-- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11647)
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (⭐️ 16879)
+- [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. (⭐️ 2692)
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11650)
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (⭐️ 16888)
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. (⭐️ 46342)
 - [ohaswin/pyscan](https://github.com/ohaswin/pyscan) - python dependency vulnerability scanner, written in Rust. (⭐️ 196)
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager (⭐️ 2257)
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (⭐️ 12767)
-- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1405)
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (⭐️ 12774)
+- [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra (⭐️ 1406)
 - [ivre/masscanned](https://github.com/ivre/masscanned) - Let's be scanned. A low-interaction honeypot focused on network scanners and bots. It integrates very well with IVRE to build a self-hosted alternative to GreyNoise. (⭐️ 125)
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing. (⭐️ 1153)
-- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux (⭐️ 1333)
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (⭐️ 24584)
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux (⭐️ 1335)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (⭐️ 24646)
 - [TokTok/c-toxcore](https://github.com/TokTok/c-toxcore) - The future of online communications. (⭐️ 2436)
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1351)
-- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3046)
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! (⭐️ 5121)
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (⭐️ 25332)
-- [gamemann/XDP-Firewall](https://github.com/gamemann/XDP-Firewall) - A firewall that utilizes the Linux kernel's XDP hook. The XDP hook allows for very fast network processing on Linux systems. This is great for dropping malicious traffic from a (D)DoS attack. IPv6 is  (⭐️ 676)
-- [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. (⭐️ 6977)
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (⭐️ 3633)
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. (⭐️ 10375)
-- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions (⭐️ 657)
-- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️ 21856)
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65149)
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (⭐️ 8498)
-- [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity (⭐️ 1651)
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1352)
+- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3047)
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! (⭐️ 5122)
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (⭐️ 25346)
+- [gamemann/XDP-Firewall](https://github.com/gamemann/XDP-Firewall) - A firewall that utilizes the Linux kernel's XDP hook. The XDP hook allows for very fast network processing on Linux systems. This is great for dropping malicious traffic from a (D)DoS attack. IPv6 is  (⭐️ 677)
+- [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. (⭐️ 6978)
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (⭐️ 3635)
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. (⭐️ 10376)
+- [bytedance/g3](https://github.com/bytedance/g3) - Enterprise-oriented Generic Proxy Solutions (⭐️ 659)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️ 21860)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (⭐️ 65164)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (⭐️ 8533)
+- [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity (⭐️ 1652)
 - [ncsa/ssh-auditor](https://github.com/ncsa/ssh-auditor) - The best way to scan for weak ssh passwords on your network (⭐️ 612)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18142)
-- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH. (⭐️ 7383)
-- [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions (⭐️ 5511)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18152)
+- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH. (⭐️ 7387)
+- [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions (⭐️ 5514)
 
 **[⬆️ Go back to top](#contents)**
 
 ## security-tools 
 
-- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (⭐️ 7118)
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (⭐️ 19638)
-- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4283)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (⭐️ 21117)
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code. (⭐️ 7120)
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (⭐️ 19647)
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management (⭐️ 4289)
 - [b1-team/superman](https://github.com/b1-team/superman) - 🤖 Kill The Protected Process 🤖 (⭐️ 439)
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform. (⭐️ 318)
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner (⭐️ 908)
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (⭐️ 1190)
 - [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS (⭐️ 1576)
-- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11647)
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (⭐️ 11650)
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. (⭐️ 46342)
 - [ohaswin/pyscan](https://github.com/ohaswin/pyscan) - python dependency vulnerability scanner, written in Rust. (⭐️ 196)
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (⭐️ 12767)
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (⭐️ 25332)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18142)
-- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH. (⭐️ 7383)
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. (⭐️ 12774)
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (⭐️ 25346)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18152)
+- [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH. (⭐️ 7387)
 
 **[⬆️ Go back to top](#contents)**
 
 ## self-hosted 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15050)
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (⭐️ 7349)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21208)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (⭐️ 25606)
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42096)
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (⭐️ 16879)
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. (⭐️ 2814)
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy (⭐️ 1072)
+- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Realtime log viewer with web UI, tail -f for logs with a web interface browser. (⭐️ 1669)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati (⭐️ 15256)
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (⭐️ 7351)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21219)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (⭐️ 25648)
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42125)
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (⭐️ 16888)
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. (⭐️ 2816)
 - [antville/antville](https://github.com/antville/antville) - The Queen Mum of Weblog Hosting Systems – written in server-side JavaScript since 2001. (⭐️ 82)
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2357)
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2356)
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr (⭐️ 1985)
 - [emanuelef/daily-stars-explorer](https://github.com/emanuelef/daily-stars-explorer) - Gain deeper insights into your favourite open-source repositories. Explore star trends showing daily stars and go beyond the 40k-star limit. (⭐️ 221)
 - [prismelabs/analytics](https://github.com/prismelabs/analytics) - 💎 An Open Source, privacy-focused and progressive analytics service. (⭐️ 101)
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free! (⭐️ 501)
-- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3046)
-- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12895)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️ 233913)
+- [milesmcc/shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. (⭐️ 3047)
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (⭐️ 12899)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (⭐️ 234051)
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod (⭐️ 730)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37320)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37337)
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀 (⭐️ 791)
-- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so (⭐️ 3856)
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so (⭐️ 3861)
 - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services. (⭐️ 97)
-- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates (⭐️ 2494)
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. (⭐️ 8542)
-- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites. (⭐️ 2986)
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (⭐️ 9962)
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates (⭐️ 2497)
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. (⭐️ 8550)
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites. (⭐️ 2988)
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (⭐️ 9968)
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights (⭐️ 764)
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (⭐️ 731)
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. (⭐️ 10375)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (⭐️ 5414)
-- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (⭐️ 1983)
-- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 722)
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (⭐️ 17213)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (⭐️ 10173)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22521)
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (⭐️ 735)
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. (⭐️ 10376)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (⭐️ 5417)
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (⭐️ 1985)
+- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 724)
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (⭐️ 17224)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (⭐️ 10194)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22531)
 - [umputun/tg-spam](https://github.com/umputun/tg-spam) - Anti-spam bot for Telegram and general-purpose anti-spam library and server (⭐️ 342)
-- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 76)
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (⭐️ 10606)
+- [watzon/0x45](https://github.com/watzon/0x45) - 🚀 Modern, high-performance file sharing and URL shortening service with S3 support, rate limiting, and API keys. Built with Go and inspired by 0x0.st 📤 (⭐️ 77)
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (⭐️ 10676)
 
 **[⬆️ Go back to top](#contents)**
 
 ## server 
 
+- [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy (⭐️ 1702)
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr (⭐️ 6347)
+- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box. (⭐️ 14580)
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (⭐️ 12761)
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless (⭐️ 16301)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (⭐️ 82901)
+- [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream. (⭐️ 6636)
 - [pommee/goaway](https://github.com/pommee/goaway) - Lightweight DNS sinkhole written in Go with a modern dashboard client (⭐️ 205)
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀) (⭐️ 122)
 - [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies. (⭐️ 301)
 - [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers. (⭐️ 1534)
-- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server (⭐️ 13926)
-- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates (⭐️ 2494)
-- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server (⭐️ 228)
-- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (⭐️ 20822)
-- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 722)
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (⭐️ 8899)
+- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server (⭐️ 13928)
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates (⭐️ 2497)
+- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) - A high-performance HTTP/HTTPS/SOCKS5 proxy server (⭐️ 229)
+- [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. (⭐️ 20834)
+- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 724)
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (⭐️ 8912)
 - [SimonCahill/EndlesshReportGenerator](https://github.com/SimonCahill/EndlesshReportGenerator) - Simple C++ program that reads /var/log/syslog, filters out endlessh logs and determines basic stats, such as unique IPs, total accepted and closed connections. (⭐️ 6)
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go. (⭐️ 2852)
 
@@ -2351,85 +2672,93 @@
 
 ## serverless 
 
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (⭐️ 29530)
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime (⭐️ 7608)
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (⭐️ 28373)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (⭐️ 8619)
+- [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages. (⭐️ 305)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (⭐️ 29538)
 - [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS (⭐️ 1576)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (⭐️ 74030)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (⭐️ 74053)
 
 **[⬆️ Go back to top](#contents)**
 
 ## shell 
 
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27407)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (⭐️ 20142)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (⭐️ 6762)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (⭐️ 27429)
 - [dimo414/bkt](https://github.com/dimo414/bkt) - a subprocess caching utility, available as a command line binary and a Rust library. (⭐️ 289)
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (⭐️ 24760)
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (⭐️ 11699)
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (⭐️ 15899)
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️ 58394)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (⭐️ 24771)
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (⭐️ 11701)
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (⭐️ 15901)
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️ 58418)
 
 **[⬆️ Go back to top](#contents)**
 
 ## sketch 
 
-- [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects! (⭐️ 2378)
+- [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects! (⭐️ 2380)
 
 **[⬆️ Go back to top](#contents)**
 
 ## sql 
 
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (⭐️ 14985)
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19565)
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30046)
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30753)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (⭐️ 29530)
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries (⭐️ 4280)
+- [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database. (⭐️ 4108)
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (⭐️ 14995)
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19571)
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30047)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30761)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (⭐️ 29538)
 - [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies. (⭐️ 301)
 - [SeaQL/starfish-ql](https://github.com/SeaQL/starfish-ql) - ✴️ An experimental graph database (⭐️ 113)
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6162)
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6171)
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry]. (⭐️ 1130)
 
 **[⬆️ Go back to top](#contents)**
 
 ## sql-server 
 
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19565)
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30753)
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6162)
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19571)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30761)
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6171)
 
 **[⬆️ Go back to top](#contents)**
 
 ## sqlite 
 
-- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (⭐️ 13428)
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (⭐️ 14985)
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19565)
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30046)
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30753)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35486)
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42096)
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. (⭐️ 2814)
-- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python (⭐️ 3739)
-- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file (⭐️ 6879)
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6162)
+- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust (⭐️ 13430)
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. (⭐️ 14995)
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. (⭐️ 19571)
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30047)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30761)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35495)
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (⭐️ 42125)
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. (⭐️ 2816)
+- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python (⭐️ 3740)
+- [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file (⭐️ 6887)
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application (⭐️ 6171)
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server] (⭐️ 2641)
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (⭐️ 12273)
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2722)
-- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2509)
-- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2679)
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (⭐️ 12279)
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest. (⭐️ 2726)
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2517)
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (⭐️ 2681)
 
 **[⬆️ Go back to top](#contents)**
 
 ## statistics 
 
-- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring (⭐️ 1788)
-- [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars. (⭐️ 6534)
+- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring (⭐️ 1789)
+- [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars. (⭐️ 6535)
 - [prismelabs/analytics](https://github.com/prismelabs/analytics) - 💎 An Open Source, privacy-focused and progressive analytics service. (⭐️ 101)
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free! (⭐️ 501)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
 - [SimonCahill/EndlesshReportGenerator](https://github.com/SimonCahill/EndlesshReportGenerator) - Simple C++ program that reads /var/log/syslog, filters out endlessh logs and determines basic stats, such as unique IPs, total accepted and closed connections. (⭐️ 6)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22743)
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics. (⭐️ 26969)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22750)
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics. (⭐️ 26983)
 
 **[⬆️ Go back to top](#contents)**
 
@@ -2441,177 +2770,195 @@
 
 ## svelte 
 
-- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (⭐️ 1405)
+- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (⭐️ 1406)
 
 **[⬆️ Go back to top](#contents)**
 
 ## swift 
 
-- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1379)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
+- [ivanvorobei/SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music, Mail & Podcasts Apple's apps. (⭐️ 2745)
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps (⭐️ 1380)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
 
 **[⬆️ Go back to top](#contents)**
 
 ## symfony 
 
-- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so (⭐️ 3856)
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so (⭐️ 3861)
 
 **[⬆️ Go back to top](#contents)**
 
 ## tailwind 
 
-- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13181)
-- [EveSunMaple/Frosti](https://github.com/EveSunMaple/Frosti) - A clean, elegant, and fast static blog template! 🚀 Developed with Astro (⭐️ 364)
+- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13183)
+- [EveSunMaple/Frosti](https://github.com/EveSunMaple/Frosti) - A clean, elegant, and fast static blog template! 🚀 Developed with Astro (⭐️ 365)
 
 **[⬆️ Go back to top](#contents)**
 
 ## tailwindcss 
 
-- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13181)
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30753)
-- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (⭐️ 8893)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️ 36826)
+- [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages. (⭐️ 305)
+- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13183)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. (⭐️ 30761)
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (⭐️ 8895)
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️ 36838)
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free! (⭐️ 501)
-- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 722)
-- [EveSunMaple/Frosti](https://github.com/EveSunMaple/Frosti) - A clean, elegant, and fast static blog template! 🚀 Developed with Astro (⭐️ 364)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22743)
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more. (⭐️ 21770)
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (⭐️ 31982)
+- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 724)
+- [EveSunMaple/Frosti](https://github.com/EveSunMaple/Frosti) - A clean, elegant, and fast static blog template! 🚀 Developed with Astro (⭐️ 365)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22750)
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more. (⭐️ 21778)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (⭐️ 31990)
 
 **[⬆️ Go back to top](#contents)**
 
 ## telegram 
 
-- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (⭐️ 4978)
-- [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人 (⭐️ 1645)
-- [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust (⭐️ 3657)
+- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是 (⭐️ 21646)
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (⭐️ 4982)
+- [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人 (⭐️ 1646)
+- [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust (⭐️ 3658)
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot (⭐️ 950)
-- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (⭐️ 12583)
+- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots (⭐️ 12586)
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr (⭐️ 1985)
-- [bostrot/telegram-support-bot](https://github.com/bostrot/telegram-support-bot) - A Telegram ticketing/supporting system. (⭐️ 525)
+- [bostrot/telegram-support-bot](https://github.com/bostrot/telegram-support-bot) - A Telegram ticketing/supporting system. (⭐️ 526)
 
 **[⬆️ Go back to top](#contents)**
 
 ## telegram-bot 
 
-- [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人 (⭐️ 1645)
+- [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人 (⭐️ 1646)
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot (⭐️ 950)
-- [bostrot/telegram-support-bot](https://github.com/bostrot/telegram-support-bot) - A Telegram ticketing/supporting system. (⭐️ 525)
+- [bostrot/telegram-support-bot](https://github.com/bostrot/telegram-support-bot) - A Telegram ticketing/supporting system. (⭐️ 526)
 - [umputun/tg-spam](https://github.com/umputun/tg-spam) - Anti-spam bot for Telegram and general-purpose anti-spam library and server (⭐️ 342)
 
 **[⬆️ Go back to top](#contents)**
 
 ## terminal 
 
-- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (⭐️ 9372)
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (⭐️ 19792)
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (⭐️ 4484)
+- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. (⭐️ 4080)
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (⭐️ 9379)
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal (⭐️ 16144)
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (⭐️ 24733)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (⭐️ 16004)
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (⭐️ 11483)
-- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance (⭐️ 1094)
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (⭐️ 24749)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (⭐️ 16026)
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. (⭐️ 11494)
+- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance (⭐️ 1096)
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (⭐️ 4789)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (⭐️ 5017)
-- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (⭐️ 6351)
-- [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow (⭐️ 1393)
-- [Canop/bacon](https://github.com/Canop/bacon) - background code checker (⭐️ 2619)
-- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (⭐️ 20834)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (⭐️ 5018)
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative) (⭐️ 6350)
+- [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow (⭐️ 1394)
+- [Canop/bacon](https://github.com/Canop/bacon) - background code checker (⭐️ 2620)
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (⭐️ 20846)
 - [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager. (⭐️ 1636)
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (⭐️ 14847)
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (⭐️ 14868)
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (⭐️ 414)
-- [microsoft/edit](https://github.com/microsoft/edit) - We all edit. (⭐️ 10730)
-- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 722)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (⭐️ 25452)
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (⭐️ 15899)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (⭐️ 16660)
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (⭐️ 15255)
+- [microsoft/edit](https://github.com/microsoft/edit) - We all edit. (⭐️ 10898)
+- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (⭐️ 724)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (⭐️ 25461)
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (⭐️ 15901)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (⭐️ 16670)
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (⭐️ 15278)
 - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨ (⭐️ 300)
-- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY (⭐️ 477)
+- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY (⭐️ 478)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (⭐️ 3293)
 - [hugomd/ascii-live](https://github.com/hugomd/ascii-live) - An extension to parrot.live, with support for more animations! http://ascii.live (⭐️ 783)
-- [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere (⭐️ 4176)
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9326)
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27868)
+- [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere (⭐️ 4177)
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (⭐️ 9350)
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (⭐️ 27881)
 - [noel-friedrich/terminal](https://github.com/noel-friedrich/terminal) - Terminal-style Personal Homepage (⭐️ 62)
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components. (⭐️ 612)
-- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (⭐️ 1405)
-- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (⭐️ 8854)
+- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (⭐️ 1406)
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (⭐️ 8857)
 
 **[⬆️ Go back to top](#contents)**
 
 ## text-to-speech 
 
-- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola (⭐️ 3728)
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola (⭐️ 4016)
 
 **[⬆️ Go back to top](#contents)**
 
 ## twitter 
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39887)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (⭐️ 39902)
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr (⭐️ 1985)
 
 **[⬆️ Go back to top](#contents)**
 
 ## typescript 
 
+- [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. (⭐️ 11490)
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (⭐️ 15387)
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (⭐️ 5327)
+- [nhost/hasura-auth](https://github.com/nhost/hasura-auth) - Authentication for Hasura. (⭐️ 402)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (⭐️ 8619)
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. (⭐️ 10336)
+- [vanxh/openbio](https://github.com/vanxh/openbio) - Open source beautiful link in bio pages. (⭐️ 305)
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (⭐️ 12761)
+- [ourongxing/web-printer](https://github.com/ourongxing/web-printer) - A printer that can print multiple web pages as one pretty PDF (⭐️ 110)
+- [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database. (⭐️ 4108)
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server (⭐️ 7169)
-- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses. (⭐️ 10333)
-- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13181)
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67144)
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30046)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35486)
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses. (⭐️ 10337)
+- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13183)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. (⭐️ 67154)
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. (⭐️ 30047)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (⭐️ 35495)
 - [spellshift/realm](https://github.com/spellshift/realm) - Realm is a cross platform Red Team engagement platform with a focus on automation and reliability. (⭐️ 499)
-- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat (⭐️ 3322)
-- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1351)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️ 36826)
-- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2357)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
-- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment. (⭐️ 1753)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37320)
+- [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat (⭐️ 3323)
+- [globaleaks/globaleaks-whistleblowing-software](https://github.com/globaleaks/globaleaks-whistleblowing-software) - GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. (⭐️ 1352)
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️ 36838)
+- [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨 (⭐️ 2356)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
+- [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment. (⭐️ 1754)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. (⭐️ 37337)
 - [meteroid-oss/meteroid](https://github.com/meteroid-oss/meteroid) - Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights (⭐️ 764)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (⭐️ 19717)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (⭐️ 19742)
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer (⭐️ 1088)
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better. (⭐️ 701)
-- [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography. (⭐️ 373)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22521)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29130)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35793)
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more. (⭐️ 21770)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18142)
-- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ (⭐️ 16787)
-- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (⭐️ 14576)
+- [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography. (⭐️ 375)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open s (⭐️ 22531)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29652)
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building  (⭐️ 35826)
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more. (⭐️ 21778)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (⭐️ 18152)
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ (⭐️ 16795)
+- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (⭐️ 14579)
 - [SleeplessOne1917/lemmy-bot](https://github.com/SleeplessOne1917/lemmy-bot) - A bot library for Lemmy, the fediverse link aggregator. (⭐️ 100)
 - [eggsy/website](https://github.com/eggsy/website) - 🧬 Source code of my personal website. Everything is included. Written in NuxtJS, TypeScript and Windi CSS! (⭐️ 327)
 - [shellbear/shellbear.me](https://github.com/shellbear/shellbear.me) - Source code of my personal website and blog ✨ (⭐️ 317)
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components. (⭐️ 612)
-- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (⭐️ 1405)
+- [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website (⭐️ 1406)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (⭐️ 1613)
 
 **[⬆️ Go back to top](#contents)**
 
 ## ubuntu 
 
-- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments. (⭐️ 3260)
-- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. (⭐️ 6337)
+- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments. (⭐️ 3262)
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. (⭐️ 6338)
 
 **[⬆️ Go back to top](#contents)**
 
 ## ui 
 
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. (⭐️ 33410)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (⭐️ 29061)
+- [ivanvorobei/SPStorkController](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music, Mail & Podcasts Apple's apps. (⭐️ 2745)
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy. (⭐️ 33419)
 
 **[⬆️ Go back to top](#contents)**
 
 ## ui-design 
 
-- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。 (⭐️ 5667)
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。 (⭐️ 5670)
 
 **[⬆️ Go back to top](#contents)**
 
 ## vim 
 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (⭐️ 36601)
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26594)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (⭐️ 26599)
 
 **[⬆️ Go back to top](#contents)**
 
@@ -2623,74 +2970,82 @@
 
 ## vpn 
 
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (⭐️ 16670)
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA (⭐️ 2096)
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy (⭐️ 1072)
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (⭐️ 16679)
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA (⭐️ 2100)
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients. (⭐️ 4858)
-- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy (⭐️ 5015)
-- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux (⭐️ 5719)
-- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp (⭐️ 6831)
-- [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable. (⭐️ 12351)
+- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy (⭐️ 5017)
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux (⭐️ 5728)
+- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp (⭐️ 6835)
+- [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable. (⭐️ 12354)
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations (⭐️ 206)
-- [cunicu/cunicu](https://github.com/cunicu/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE) (⭐️ 215)
+- [cunicu/cunicu](https://github.com/cunicu/cunicu) - A zeroconf peer-to-peer mesh VPN using Wireguard® and Interactive Connectivity Establishment (ICE) (⭐️ 216)
 - [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud). (⭐️ 558)
 - [perara/wg-manager](https://github.com/perara/wg-manager) - A easy to use WireGuard dashboard and management tool (⭐️ 613)
-- [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. (⭐️ 1597)
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (⭐️ 7349)
+- [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling. (⭐️ 1598)
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (⭐️ 7351)
 - [ancwrd1/snx-rs](https://github.com/ancwrd1/snx-rs) - Open Source Linux Client For Check Point VPN Tunnels (⭐️ 191)
 - [KusakabeShi/EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) - Layer2 version of wireguard with Floyd Warshall implement in go. (⭐️ 166)
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. (⭐️ 10375)
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. (⭐️ 10376)
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti (⭐️ 3400)
-- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 803)
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens (⭐️ 809)
 - [NeoCloud/NeoNetwork](https://github.com/NeoCloud/NeoNetwork) - A useless VPN Network ready for peering (⭐️ 81)
-- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. (⭐️ 18556)
-- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2509)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (⭐️ 23307)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (⭐️ 16477)
-- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy. (⭐️ 4317)
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. (⭐️ 18573)
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2517)
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (⭐️ 23340)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (⭐️ 16520)
+- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy. (⭐️ 4320)
 
 **[⬆️ Go back to top](#contents)**
 
 ## vue 
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21208)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 30996)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL. (⭐️ 8619)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (⭐️ 21219)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. (⭐️ 31000)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
 - [eggsy/website](https://github.com/eggsy/website) - 🧬 Source code of my personal website. Everything is included. Written in NuxtJS, TypeScript and Windi CSS! (⭐️ 327)
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (⭐️ 10606)
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. (⭐️ 10676)
 
 **[⬆️ Go back to top](#contents)**
 
 ## vuejs 
 
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24179)
-- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2509)
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (⭐️ 24196)
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js (⭐️ 2517)
 
 **[⬆️ Go back to top](#contents)**
 
 ## web 
 
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (⭐️ 31200)
-- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13181)
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (⭐️ 29530)
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11. (⭐️ 9458)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (⭐️ 29061)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (⭐️ 36980)
+- [constantoine/totp-rs](https://github.com/constantoine/totp-rs) - RFC-compliant TOTP implementation with ease of use as a goal and additionnal QoL features. (⭐️ 213)
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (⭐️ 12761)
+- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust. (⭐️ 3100)
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (⭐️ 31201)
+- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13183)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (⭐️ 29538)
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀) (⭐️ 122)
 - [c410-f3r/wtx](https://github.com/c410-f3r/wtx) - A collection of different transport implementations and related tools focused primarily on web technologies. (⭐️ 301)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51556)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (⭐️ 19717)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29130)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (⭐️ 51579)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (⭐️ 19742)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (⭐️ 29652)
 
 **[⬆️ Go back to top](#contents)**
 
 ## web-components 
 
-- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13181)
+- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架 (⭐️ 13183)
 
 **[⬆️ Go back to top](#contents)**
 
 ## website 
 
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free! (⭐️ 501)
-- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1482)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22743)
+- [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, (⭐️ 1485)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (⭐️ 22750)
 - [HiNinoJay/hexo-theme-A4](https://github.com/HiNinoJay/hexo-theme-A4) - A hexo theme that looks like an A4 paper.（一个类A4纸张质感的hexo博客主题。） (⭐️ 548)
 - [noel-friedrich/terminal](https://github.com/noel-friedrich/terminal) - Terminal-style Personal Homepage (⭐️ 62)
 
@@ -2698,30 +3053,36 @@
 
 ## windows 
 
-- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux (⭐️ 5719)
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11. (⭐️ 9458)
+- [replydev/cotp](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality. (⭐️ 302)
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. (⭐️ 16403)
+- [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.[一款开源的游戏变速器] (⭐️ 2404)
+- [clawsoftware/clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions. (⭐️ 1637)
+- [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting (⭐️ 3368)
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux (⭐️ 5728)
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform. (⭐️ 318)
-- [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. (⭐️ 2691)
+- [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. (⭐️ 2692)
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. (⭐️ 46342)
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49587)
-- [TC999/AppDataCleaner](https://github.com/TC999/AppDataCleaner) - 辅助清理Appdata的小工具，支持 GPT 解释文件夹用途 (⭐️ 236)
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉 (⭐️ 11856)
-- [ALTaleX531/OpenGlass](https://github.com/ALTaleX531/OpenGlass) - Aero Glass For Windows 10+ (⭐️ 380)
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (⭐️ 49601)
+- [TC999/AppDataCleaner](https://github.com/TC999/AppDataCleaner) - 辅助清理Appdata的小工具，支持 GPT 解释文件夹用途 (⭐️ 235)
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉 (⭐️ 11867)
+- [ALTaleX531/OpenGlass](https://github.com/ALTaleX531/OpenGlass) - Aero Glass For Windows 10+ (⭐️ 381)
 - [LeoBorai/local-ip-address](https://github.com/LeoBorai/local-ip-address) - Retrieve system's local IP address and Network Interfaces/Adapters on FreeBSD, Linux, macOS and Windows (⭐️ 121)
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool (⭐️ 4676)
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (⭐️ 24584)
-- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (⭐️ 5303)
-- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN (⭐️ 3251)
-- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1923)
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool (⭐️ 4679)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (⭐️ 24646)
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (⭐️ 5327)
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN (⭐️ 3252)
+- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground. (⭐️ 1924)
 - [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc (⭐️ 750)
-- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates (⭐️ 7451)
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3369)
-- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。 (⭐️ 5667)
+- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates (⭐️ 7454)
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more (⭐️ 3370)
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。 (⭐️ 5670)
 
 **[⬆️ Go back to top](#contents)**
 
 ## wordpress 
 
-- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed (⭐️ 3138)
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed (⭐️ 3139)
 
 **[⬆️ Go back to top](#contents)**
 
